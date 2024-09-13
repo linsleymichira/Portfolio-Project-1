@@ -1,0 +1,2001 @@
+Employee ID,Performance Score,Engagement Score,Compensation Ratio,# of Trainings Completed,Tenure,Education Level,Age,Department
+38693,2,1,0.92,1,1,,20,Sales & Marketing
+77507,5,3,1.01,1,3,Masters & above,38,Procurement
+3521,3,1,0.94,1,8,Bachelors,32,Sales & Marketing
+62261,4,1,0.98,2,5,Masters & above,29,Analytics
+56907,3,1,1.02,1,2,Bachelors,30,HR
+52412,3,1,0.96,2,2,Bachelors,32,Finance
+868,3,1,1.06,1,4,Bachelors,31,Sales & Marketing
+70427,2,0,0.85,1,2,Bachelors,31,Operations
+12678,2,0,0.97,1,9,Bachelors,38,Sales & Marketing
+32824,4,1,0.9,2,8,Masters & above,35,Procurement
+24287,2,0,1,2,3,Bachelors,38,Sales & Marketing
+46151,5,3,0.94,1,5,Masters & above,32,Technology
+2254,4,2,1.03,1,6,Masters & above,39,Finance
+7813,2,0,1.03,1,5,Bachelors,34,Technology
+54076,2,0,0.94,1,9,Bachelors,37,Sales & Marketing
+63327,4,3,1,1,1,Bachelors,26,Technology
+40781,4,2,0.96,2,9,Masters & above,35,Technology
+17265,3,1,0.97,1,3,Bachelors,39,Sales & Marketing
+5421,3,1,0.98,2,4,Bachelors,28,Technology
+67417,2,0,1.03,1,4,Bachelors,37,Analytics
+14154,4,3,0.98,2,6,Masters & above,44,Operations
+67621,3,0,0.96,2,14,Masters & above,45,Sales & Marketing
+45360,2,0,0.99,2,5,Bachelors,39,Sales & Marketing
+23480,3,1,0.96,1,3,Bachelors,37,Operations
+34880,3,1,0.93,2,7,Bachelors,32,Operations
+67524,3,1,1.02,2,12,Masters & above,43,Sales & Marketing
+75348,3,1,0.99,4,3,Bachelors,27,Sales & Marketing
+55775,1,1,1.01,1,3,,28,Analytics
+56218,3,1,1,1,11,Bachelors,46,Sales & Marketing
+29793,2,0,1.1,1,5,Bachelors,27,Procurement
+12528,4,2,0.96,1,24,Bachelors,54,Sales & Marketing
+76867,1,1,0.99,1,9,,36,Sales & Marketing
+22130,2,0,0.92,1,17,Bachelors,56,Sales & Marketing
+38294,4,3,1.05,2,2,Bachelors,27,Operations
+38585,2,0,0.95,1,17,Bachelors,48,Sales & Marketing
+48721,3,2,0.98,1,7,Bachelors,33,Sales & Marketing
+52886,2,0,1.09,2,2,Bachelors,26,Sales & Marketing
+67361,2,0,1.01,2,18,Masters & above,51,Sales & Marketing
+27354,4,3,0.9,3,3,Bachelors,33,Operations
+56371,5,3,0.94,2,6,Masters & above,43,Operations
+3997,2,0,0.91,1,10,Masters & above,39,Procurement
+44896,5,3,0.91,1,9,Masters & above,34,Operations
+43194,4,1,1.05,1,3,Masters & above,33,Sales & Marketing
+31750,3,1,0.96,1,4,Bachelors,29,Finance
+52367,3,1,0.87,1,10,Bachelors,35,Technology
+40889,3,1,1.1,1,1,Bachelors,28,HR
+30256,3,0,0.95,1,1,Masters & above,29,Operations
+34288,3,1,1.02,1,1,Bachelors,27,Sales & Marketing
+3242,2,0,0.94,1,2,Bachelors,28,Sales & Marketing
+36634,4,2,0.98,1,19,Masters & above,47,Procurement
+51472,2,0,0.93,1,3,Bachelors,26,Finance
+44540,3,2,1.02,1,4,Bachelors,32,Technology
+68391,3,2,0.96,1,3,Bachelors,27,Finance
+65586,3,1,1.04,1,5,Bachelors,35,HR
+69939,2,0,1.1,1,4,Bachelors,28,Analytics
+52520,3,1,1.07,1,3,Bachelors,27,Sales & Marketing
+14964,2,0,1.09,1,4,Bachelors,32,Sales & Marketing
+39424,2,1,0.99,2,4,Bachelors,34,Sales & Marketing
+70287,3,1,0.98,1,4,Bachelors,26,Procurement
+44127,4,3,1.07,1,3,Bachelors,37,Technology
+14835,3,2,1.1,1,8,Bachelors,32,Operations
+51812,2,0,0.97,1,8,Bachelors,53,Procurement
+34394,2,0,1.05,2,8,Bachelors,34,Technology
+49384,2,0,0.99,1,4,Bachelors,31,Finance
+7730,4,3,0.96,1,9,Bachelors,34,Operations
+11387,3,2,0.92,1,4,Bachelors,36,Operations
+55119,3,1,1.05,1,10,Bachelors,32,Operations
+16466,2,0,0.98,1,6,Bachelors,33,Operations
+56900,3,1,0.96,1,5,Bachelors,30,Sales & Marketing
+22663,2,0,1.07,1,7,Bachelors,34,Operations
+77422,4,2,0.94,1,9,Masters & above,40,Technology
+47251,4,3,1.1,1,6,Bachelors,32,Procurement
+68724,4,2,0.98,2,2,Masters & above,41,Procurement
+40532,4,3,1,1,2,Bachelors,29,Finance
+61639,3,1,0.95,2,3,Bachelors,30,Sales & Marketing
+52207,4,3,1,1,4,Bachelors,36,Analytics
+71732,2,0,1.08,1,3,Bachelors,27,Analytics
+53181,3,1,0.8,1,3,Bachelors,32,Procurement
+11378,3,1,0.96,1,7,Masters & above,41,Sales & Marketing
+33488,2,0,0.87,1,4,Bachelors,40,Operations
+17294,3,1,0.97,1,3,Masters & above,42,Technology
+74317,4,2,0.9,2,5,Bachelors,32,Operations
+76000,2,0,1.1,1,4,Bachelors,36,Procurement
+21424,3,2,0.82,1,5,Bachelors,40,Sales & Marketing
+36437,2,0,0.96,1,19,Bachelors,47,Operations
+64957,3,1,0.87,1,2,Bachelors,28,Analytics
+10873,3,2,0.93,1,7,Bachelors,35,Procurement
+36114,3,1,1,1,3,Bachelors,42,Sales & Marketing
+40159,2,0,1.03,1,5,Bachelors,38,Sales & Marketing
+35136,3,2,0.84,3,2,Bachelors,27,Operations
+71477,2,0,1.05,1,7,Bachelors,32,Technology
+70993,3,1,0.93,2,9,Masters & above,33,Finance
+38430,3,0,0.99,1,9,Masters & above,33,Procurement
+65623,1,0,0.99,1,1,Below Secondary,24,Procurement
+26262,2,0,1.03,1,7,Bachelors,35,Sales & Marketing
+75469,5,3,1.02,1,8,Masters & above,44,Procurement
+54539,3,2,1.05,1,3,Bachelors,39,Finance
+2117,2,0,1.03,1,10,Bachelors,35,Operations
+65479,3,1,0.96,1,4,Bachelors,29,Procurement
+18985,2,0,1.09,4,3,Bachelors,27,Procurement
+26566,3,1,0.92,2,3,Bachelors,29,Technology
+23566,3,2,0.99,1,2,Bachelors,29,Sales & Marketing
+6234,2,0,1,1,15,Bachelors,52,Sales & Marketing
+37853,3,1,0.94,2,5,Masters & above,33,Technology
+48557,3,1,1.06,1,3,Bachelors,28,Analytics
+21006,2,0,1.07,1,1,Bachelors,24,Technology
+20137,4,3,0.99,1,5,Bachelors,29,Sales & Marketing
+8941,3,1,1.07,1,3,Bachelors,26,Sales & Marketing
+67762,4,3,1.01,1,5,Bachelors,31,Operations
+21252,4,3,1.05,1,5,Bachelors,35,Sales & Marketing
+68322,3,1,0.85,1,8,Bachelors,35,Procurement
+49036,4,2,0.94,1,3,Masters & above,40,R&D
+9545,3,1,0.98,1,1,Bachelors,29,Sales & Marketing
+58342,2,0,1.01,2,6,Bachelors,32,Procurement
+29581,4,3,0.95,1,8,Masters & above,51,Technology
+22903,4,2,1.04,1,1,Bachelors,23,Operations
+52164,2,0,0.81,1,3,Bachelors,33,Operations
+75921,4,2,1.01,1,7,Bachelors,33,Finance
+6460,3,2,1.04,1,5,Bachelors,36,Sales & Marketing
+22570,2,1,1.04,1,5,Bachelors,31,Technology
+22542,1,0,0.99,1,2,,34,Sales & Marketing
+9112,2,0,1.04,1,12,Bachelors,42,Operations
+41566,2,0,1.05,1,4,Bachelors,35,Finance
+73775,4,3,1.01,1,5,Bachelors,31,HR
+72419,4,2,1.05,1,6,Masters & above,33,HR
+7978,2,1,0.95,1,4,,28,Analytics
+44044,3,0,0.98,1,8,Masters & above,32,Sales & Marketing
+15695,4,3,1,1,10,Bachelors,40,Operations
+33028,3,2,0.94,1,1,Bachelors,29,Technology
+59442,3,2,1.05,1,10,Bachelors,37,Sales & Marketing
+62478,3,1,0.8,1,7,Masters & above,34,HR
+56743,3,1,1.01,2,4,Bachelors,33,Analytics
+41567,3,1,1.05,1,7,Bachelors,33,Sales & Marketing
+21696,3,1,0.98,2,8,Bachelors,53,Procurement
+23191,4,2,1.08,1,6,Masters & above,42,Analytics
+6714,2,0,0.98,2,6,Bachelors,46,Sales & Marketing
+35241,3,2,1.03,1,2,Bachelors,25,Finance
+10538,2,0,1.01,1,5,Bachelors,30,Operations
+17949,3,0,1.04,1,5,Masters & above,34,Analytics
+49715,2,0,1.09,1,5,Bachelors,32,Operations
+24544,2,0,1.02,1,10,Bachelors,37,Sales & Marketing
+73720,3,3,0.92,1,1,,28,Sales & Marketing
+23890,4,2,1.05,1,3,Bachelors,31,Technology
+52766,4,3,0.97,1,3,Bachelors,33,Procurement
+33996,4,3,0.99,1,6,Bachelors,33,Procurement
+67509,2,0,0.94,1,2,Bachelors,27,Technology
+17414,3,1,1.1,2,4,Bachelors,29,Sales & Marketing
+62490,4,3,0.96,3,2,Bachelors,25,Procurement
+24747,4,3,0.94,1,5,Bachelors,37,Operations
+44974,2,0,0.98,1,5,Bachelors,32,Operations
+9316,2,0,0.73,1,2,Bachelors,37,Legal
+6639,2,1,1.08,1,5,Bachelors,54,Procurement
+25367,5,3,1.03,1,10,Masters & above,38,Operations
+12070,2,0,0.98,2,7,Bachelors,33,Finance
+48627,2,0,0.74,1,2,Masters & above,45,Operations
+4723,3,1,0.99,1,8,Masters & above,38,Sales & Marketing
+22348,4,3,1.07,3,5,Bachelors,42,Technology
+40479,3,1,0.97,1,25,Bachelors,52,Operations
+48002,3,2,0.97,2,13,Bachelors,51,Sales & Marketing
+52143,5,3,1.07,1,8,Masters & above,36,Technology
+73427,4,2,1.01,1,1,Bachelors,29,Sales & Marketing
+67738,3,2,1.07,1,3,Bachelors,32,Sales & Marketing
+71811,3,0,0.94,1,6,Masters & above,33,Operations
+564,2,0,0.96,1,8,Bachelors,39,Operations
+72276,2,0,1.05,1,2,Bachelors,25,Technology
+76363,2,0,0.96,1,1,Bachelors,24,Sales & Marketing
+40755,4,3,1.02,1,5,Bachelors,33,Sales & Marketing
+15047,3,2,1.05,1,9,Bachelors,34,Operations
+78075,5,3,0.95,2,9,Masters & above,39,Analytics
+61330,5,3,0.95,2,3,Masters & above,37,Sales & Marketing
+41579,2,1,0.99,1,4,Bachelors,27,Sales & Marketing
+19649,4,3,0.91,1,4,Bachelors,29,Operations
+20647,3,1,1.01,1,7,Bachelors,32,Technology
+43704,3,1,0.98,1,4,Bachelors,30,Technology
+21923,3,1,1.05,1,5,Masters & above,32,Procurement
+7488,2,0,0.99,1,6,Bachelors,33,Analytics
+3582,4,3,1.04,1,9,Bachelors,39,Operations
+15317,5,3,0.94,1,7,Masters & above,35,Analytics
+41071,2,0,1.04,4,2,Bachelors,27,Sales & Marketing
+20598,3,1,1.04,1,2,Bachelors,28,Sales & Marketing
+64187,3,2,1.07,1,4,Bachelors,32,Sales & Marketing
+26836,5,3,1.07,1,7,Masters & above,33,HR
+22136,3,1,0.92,2,8,Bachelors,38,Procurement
+39374,5,3,1,1,3,Masters & above,40,Operations
+12654,3,1,1.02,1,2,Bachelors,26,Analytics
+18298,3,1,1,1,3,Bachelors,31,Technology
+59213,3,1,0.98,1,2,Bachelors,31,Analytics
+24528,3,1,1,2,1,Bachelors,29,Sales & Marketing
+39166,5,3,0.79,2,6,Masters & above,32,Sales & Marketing
+29329,2,0,0.93,2,1,Bachelors,27,Analytics
+50640,3,1,0.98,1,3,Bachelors,30,Analytics
+47912,1,1,0.97,1,7,,35,Sales & Marketing
+46572,5,3,0.99,2,13,Masters & above,43,R&D
+46154,2,0,0.93,1,6,Bachelors,28,Operations
+31152,3,2,1.02,1,3,Bachelors,36,Sales & Marketing
+60986,3,1,1.02,1,7,Bachelors,34,Analytics
+44243,3,1,0.96,1,7,Bachelors,31,Technology
+57650,4,3,1.1,1,7,Bachelors,34,Sales & Marketing
+5916,2,0,0.97,1,2,Bachelors,25,Analytics
+20761,4,2,1.02,1,7,Masters & above,43,HR
+35187,3,1,1.1,3,2,Bachelors,27,Sales & Marketing
+52409,4,2,0.99,1,6,Bachelors,28,Analytics
+67646,3,1,1,1,12,Bachelors,41,Operations
+71494,4,3,0.94,1,2,Bachelors,29,Analytics
+57667,4,2,1,1,13,Masters & above,47,Analytics
+29991,4,3,1.1,1,3,Bachelors,28,Sales & Marketing
+36072,3,0,1.06,1,10,Masters & above,40,Analytics
+47940,4,3,0.93,1,4,Bachelors,30,Analytics
+72082,3,2,0.98,1,3,Bachelors,34,Operations
+4025,2,0,1.1,3,1,Bachelors,27,Sales & Marketing
+56935,3,0,0.97,1,14,Masters & above,42,Technology
+24329,4,2,1.04,1,9,Bachelors,31,Procurement
+31414,3,0,1.08,2,6,Masters & above,34,Analytics
+5209,2,0,0.96,1,4,Masters & above,54,Sales & Marketing
+55238,2,0,1.1,1,3,Bachelors,34,Operations
+29659,2,0,0.93,1,7,Bachelors,31,Operations
+11990,2,1,1.03,1,2,Bachelors,51,Operations
+65779,3,1,0.98,1,6,Bachelors,33,Technology
+7708,4,1,1.01,1,17,Masters & above,45,Procurement
+24077,4,3,1.02,2,5,Bachelors,31,Sales & Marketing
+11013,4,3,1.04,1,7,Bachelors,45,Operations
+42597,4,2,0.99,1,6,Masters & above,34,Technology
+39014,2,0,1.06,2,1,Bachelors,25,Procurement
+56127,3,1,0.98,1,3,Bachelors,26,Sales & Marketing
+31579,5,3,1.03,1,8,Masters & above,41,Operations
+15519,5,3,1.04,1,6,Masters & above,33,Analytics
+754,4,1,0.99,1,6,Masters & above,31,Sales & Marketing
+25496,3,1,0.95,1,7,Bachelors,36,Operations
+55489,3,1,1,1,2,Masters & above,47,Procurement
+32507,3,1,1.07,1,7,Masters & above,32,Analytics
+56192,3,1,0.94,1,7,Bachelors,39,Analytics
+13338,3,1,1.02,2,2,Bachelors,28,Sales & Marketing
+2018,3,1,0.94,1,9,Bachelors,40,Operations
+41699,2,0,1.02,3,3,Bachelors,30,Analytics
+70090,3,2,0.95,2,10,Bachelors,38,Operations
+77499,3,0,0.99,1,9,Masters & above,34,Technology
+59883,3,1,1.04,1,5,Bachelors,32,Sales & Marketing
+9361,3,1,1,1,3,Bachelors,31,Operations
+74389,3,1,0.96,1,13,Bachelors,41,Operations
+72646,4,3,0.94,1,5,Bachelors,32,Sales & Marketing
+76087,2,0,0.95,2,4,Bachelors,28,Analytics
+15205,3,2,1.03,2,3,Bachelors,27,Sales & Marketing
+66342,3,1,0.98,1,2,Bachelors,30,Analytics
+2572,4,1,0.99,1,8,Masters & above,38,Procurement
+3530,2,0,0.99,2,3,Bachelors,27,Analytics
+65701,3,2,0.93,1,7,Bachelors,36,Sales & Marketing
+70129,3,0,0.95,1,4,Masters & above,29,Sales & Marketing
+43503,3,2,0.98,1,5,Bachelors,28,Analytics
+21018,4,2,1.04,1,8,Masters & above,34,Operations
+52839,3,0,0.95,1,4,Masters & above,36,Procurement
+44625,3,1,0.97,1,9,Masters & above,35,Operations
+18585,4,1,1.06,2,16,Masters & above,50,Technology
+5985,2,1,0.93,2,2,Bachelors,51,Operations
+53150,3,1,1.1,1,4,Bachelors,29,Procurement
+65909,3,2,0.99,1,2,Bachelors,47,Operations
+47037,2,0,1.02,1,2,Bachelors,41,Operations
+3965,2,0,0.99,2,1,Below Secondary,22,Procurement
+60514,5,3,0.97,1,8,Masters & above,37,Procurement
+3609,3,2,1,2,7,Bachelors,32,Analytics
+73402,4,3,1.05,1,8,Bachelors,50,Operations
+25427,2,0,1.01,1,10,Bachelors,42,Sales & Marketing
+10205,3,1,1.01,1,5,Masters & above,37,Operations
+52075,5,3,0.97,1,2,Masters & above,34,Technology
+1519,2,0,1.02,1,2,Masters & above,33,Operations
+35191,3,0,0.82,1,12,Masters & above,37,Analytics
+1911,3,0,0.78,2,2,Masters & above,35,Procurement
+28973,2,0,1,1,4,Bachelors,29,Operations
+43173,3,3,1.03,1,5,,29,Analytics
+54484,3,1,1,2,7,Masters & above,54,Procurement
+72319,3,1,1.05,2,10,Bachelors,42,Operations
+75445,4,3,1.02,1,2,Bachelors,25,Technology
+17848,3,1,0.96,2,5,Bachelors,31,Procurement
+31281,3,1,0.99,1,10,Bachelors,30,Operations
+44546,3,2,1.1,1,1,Bachelors,26,Sales & Marketing
+11646,2,1,0.99,2,2,Bachelors,35,Procurement
+31213,3,1,0.85,1,10,Bachelors,32,Operations
+72038,3,0,0.91,1,9,Masters & above,38,Procurement
+64720,3,0,1.06,3,4,Masters & above,38,Sales & Marketing
+9786,3,1,0.94,1,7,Masters & above,40,Procurement
+51368,4,3,0.98,1,8,Bachelors,36,Analytics
+18234,4,2,1.02,2,6,Masters & above,41,Operations
+74672,3,1,0.99,1,3,Bachelors,26,Technology
+61466,3,1,0.95,1,8,Masters & above,39,Procurement
+27529,2,0,1,1,10,Bachelors,32,Sales & Marketing
+57531,3,1,0.97,1,6,Masters & above,49,Sales & Marketing
+50275,3,2,0.82,1,4,Bachelors,32,Analytics
+61536,3,2,1.03,1,3,Bachelors,35,Analytics
+14786,3,0,0.99,1,10,Masters & above,35,Sales & Marketing
+73339,2,1,1.05,1,3,,26,Sales & Marketing
+29471,4,3,1.05,1,6,Masters & above,39,Procurement
+42079,2,0,0.95,1,4,Bachelors,28,Sales & Marketing
+60701,3,1,0.97,1,1,Bachelors,28,Operations
+53091,2,1,1.04,1,2,Bachelors,41,Operations
+3128,3,1,1.05,1,6,Bachelors,30,Operations
+17551,2,0,1.05,1,1,Bachelors,27,Technology
+77201,4,3,0.94,1,3,Bachelors,35,Analytics
+77524,2,0,1.05,1,3,Bachelors,48,Sales & Marketing
+31212,1,0,0.98,1,7,,41,Operations
+52313,2,0,1.06,1,2,Bachelors,25,Sales & Marketing
+64326,4,1,0.9,1,7,Masters & above,42,Procurement
+23160,4,2,0.98,1,7,Bachelors,31,Operations
+64832,2,0,0.93,1,17,Bachelors,56,Finance
+7246,3,1,1,2,3,Bachelors,33,Sales & Marketing
+52956,4,3,0.72,1,7,Bachelors,34,Legal
+61832,2,0,0.93,2,3,Bachelors,25,Sales & Marketing
+29966,4,2,0.99,1,23,Masters & above,55,Operations
+41335,3,2,1,1,4,Bachelors,36,Sales & Marketing
+28843,3,0,1.07,1,8,Masters & above,36,Operations
+51508,3,1,0.99,1,6,Bachelors,34,Analytics
+4385,3,1,1.02,1,3,Masters & above,45,Operations
+32975,4,1,1.02,1,8,Masters & above,34,Technology
+26018,2,0,1.08,1,7,Bachelors,38,Operations
+61023,3,1,1.04,1,7,Bachelors,34,Sales & Marketing
+55496,4,3,0.99,2,2,Bachelors,25,Sales & Marketing
+39898,2,0,1.01,1,16,Bachelors,44,Analytics
+14546,2,0,1.01,1,5,Bachelors,30,Sales & Marketing
+29829,3,1,1.08,1,4,Bachelors,31,Procurement
+52701,4,1,0.8,2,7,Masters & above,34,Operations
+52546,2,0,0.99,1,2,Bachelors,27,Analytics
+69418,4,1,0.98,1,7,Masters & above,36,Technology
+46281,2,0,1.03,1,1,Bachelors,26,Procurement
+38894,2,0,1.03,1,2,Bachelors,30,Legal
+45749,2,0,1.09,2,2,Masters & above,47,Analytics
+38447,3,1,0.96,1,3,Bachelors,37,Sales & Marketing
+3322,3,0,0.84,2,10,Masters & above,34,Procurement
+67052,3,1,1.01,1,4,Bachelors,37,Operations
+23881,3,1,1.02,1,8,Masters & above,39,Procurement
+15893,2,0,0.76,1,3,Bachelors,31,Sales & Marketing
+76261,3,1,0.94,1,5,Bachelors,29,Operations
+54450,2,0,0.99,1,2,Bachelors,26,HR
+59574,4,1,1.02,2,3,Masters & above,33,Procurement
+29889,3,1,1.07,1,8,Bachelors,36,Operations
+35969,1,1,0.73,1,5,,31,Sales & Marketing
+23923,2,0,1.01,4,1,Bachelors,29,Sales & Marketing
+56992,3,0,0.94,1,4,Masters & above,39,Operations
+49726,2,0,1.02,1,4,Bachelors,26,Operations
+9291,2,0,0.95,1,7,Bachelors,39,Analytics
+63387,3,1,1.1,1,4,Bachelors,27,Operations
+16918,3,0,0.98,2,13,Masters & above,42,Analytics
+76892,4,3,0.92,1,5,Bachelors,37,Technology
+19431,1,0,1,1,4,,28,Sales & Marketing
+31443,4,1,0.96,1,7,Masters & above,44,Operations
+56434,2,0,1.03,1,13,Bachelors,51,Sales & Marketing
+46288,3,2,0.97,1,6,Bachelors,32,Procurement
+62541,3,0,1.05,1,6,Masters & above,40,HR
+5929,5,3,1.03,1,11,Masters & above,42,Operations
+63111,2,0,0.97,2,3,Bachelors,27,Operations
+8944,2,0,1.08,1,6,Bachelors,33,Technology
+69805,4,2,1,1,10,Bachelors,40,Operations
+55668,3,0,0.71,1,9,Masters & above,36,Procurement
+24597,4,1,1.04,1,3,Masters & above,30,Sales & Marketing
+66772,3,0,1.04,2,4,Masters & above,37,Analytics
+25928,4,2,0.95,1,6,Bachelors,32,HR
+54882,3,2,1.1,1,3,Bachelors,27,Operations
+34930,4,3,1.06,1,4,Bachelors,53,Finance
+63520,4,3,0.99,1,6,Bachelors,41,Operations
+40657,2,0,0.99,4,2,Bachelors,28,Analytics
+12164,5,3,1.03,1,2,Masters & above,33,Technology
+52518,2,0,0.98,2,3,Bachelors,30,Finance
+61236,3,1,1.01,1,4,Masters & above,28,Sales & Marketing
+63462,4,3,0.95,1,3,Bachelors,44,Procurement
+69581,1,1,0.9,1,1,,30,Sales & Marketing
+69240,4,2,0.98,1,8,Masters & above,46,Operations
+63839,2,0,1.01,1,3,Bachelors,42,Sales & Marketing
+13728,2,0,0.98,1,5,Bachelors,30,Analytics
+64523,3,1,0.94,1,6,Masters & above,42,Sales & Marketing
+32398,5,3,0.94,1,8,Masters & above,36,Sales & Marketing
+43859,2,0,1.05,1,3,Bachelors,39,Operations
+20739,2,0,0.97,2,1,Bachelors,24,Analytics
+10194,4,2,1.06,1,9,Bachelors,30,Analytics
+16124,2,0,0.84,1,6,Bachelors,32,Operations
+40066,3,1,0.95,1,4,Bachelors,32,HR
+22499,2,0,0.99,4,2,Bachelors,30,Sales & Marketing
+75781,4,3,0.97,1,6,Bachelors,28,Analytics
+75480,3,1,0.99,1,10,Bachelors,35,Sales & Marketing
+23011,3,1,0.99,1,5,Bachelors,40,Sales & Marketing
+47154,4,2,0.96,1,2,Bachelors,24,Technology
+34353,5,3,1.03,2,7,Masters & above,31,Technology
+9958,3,2,1,1,3,Bachelors,44,Operations
+3924,2,1,0.96,1,7,Bachelors,60,Sales & Marketing
+17437,1,0,1.03,1,1,,30,Operations
+31181,4,1,1.03,1,3,Masters & above,35,Procurement
+36770,2,0,1,1,2,Bachelors,26,Technology
+25490,5,3,0.86,1,4,Masters & above,31,Operations
+2052,4,3,0.98,1,3,Bachelors,28,Finance
+53686,2,0,1.05,1,1,Bachelors,25,Sales & Marketing
+60391,2,0,1.02,2,7,Bachelors,28,Technology
+62782,3,1,0.99,1,7,Bachelors,33,Analytics
+41299,3,2,0.99,1,3,Bachelors,27,Finance
+66836,2,0,1,2,1,Bachelors,28,Analytics
+52672,3,0,1.01,1,8,Masters & above,37,Operations
+59145,3,0,1.1,1,18,Masters & above,48,Procurement
+70354,4,3,1,1,5,Bachelors,35,Sales & Marketing
+75082,3,2,1.06,1,2,Bachelors,27,Sales & Marketing
+3578,3,1,1.04,1,4,Bachelors,30,Sales & Marketing
+41393,2,0,1.1,1,8,Bachelors,36,Technology
+55938,2,0,0.97,1,8,Bachelors,34,Operations
+46833,2,0,1.05,1,8,Bachelors,41,Analytics
+13126,1,0,1,1,4,,42,Operations
+73823,2,0,0.98,1,1,Bachelors,27,Sales & Marketing
+4336,3,0,0.94,1,11,Masters & above,36,Technology
+9984,4,3,0.94,1,1,Bachelors,27,Analytics
+23901,4,2,0.97,1,2,Bachelors,26,Analytics
+43154,3,3,1.06,1,2,,31,Sales & Marketing
+5470,3,2,1.06,2,4,Bachelors,34,Procurement
+75540,3,1,1.02,1,6,Bachelors,41,Operations
+538,2,0,1,1,7,Bachelors,44,Sales & Marketing
+50458,3,1,1.01,2,7,Bachelors,34,Sales & Marketing
+65694,2,0,0.94,1,2,Bachelors,24,Technology
+46148,2,0,1.1,1,2,Bachelors,31,Operations
+22971,1,0,0.94,1,1,Below Secondary,24,HR
+67773,3,1,1.05,2,1,Bachelors,30,Technology
+75520,3,1,0.74,1,11,Bachelors,46,Sales & Marketing
+34588,3,1,0.99,1,5,Bachelors,29,Sales & Marketing
+38084,3,0,1.1,1,6,Masters & above,30,Procurement
+23413,4,1,0.97,1,2,Masters & above,32,Sales & Marketing
+69833,4,2,1.04,1,2,Masters & above,38,Procurement
+26540,4,1,0.96,1,14,Masters & above,37,Operations
+35880,3,2,1.07,2,3,Bachelors,30,Analytics
+37848,2,1,0.98,1,1,Below Secondary,22,HR
+6999,5,3,0.86,1,7,Masters & above,32,Technology
+40763,4,2,0.92,1,16,Masters & above,52,Technology
+21947,2,0,0.8,1,21,Bachelors,49,Operations
+30037,4,2,0.99,1,5,Masters & above,32,Procurement
+58088,3,1,1.06,3,3,Bachelors,31,Technology
+64729,3,1,1.06,1,7,Masters & above,49,Operations
+24050,3,1,0.99,1,3,Bachelors,28,Sales & Marketing
+59330,4,3,1.05,1,6,Bachelors,42,Finance
+12570,2,0,0.99,2,6,Bachelors,48,Procurement
+4365,4,1,1.07,1,6,Masters & above,33,R&D
+7197,3,2,1.01,1,6,Bachelors,43,Sales & Marketing
+32588,2,0,0.86,1,11,Bachelors,45,Operations
+40493,2,1,0.98,1,8,,30,Sales & Marketing
+9230,3,0,1.02,1,4,Masters & above,31,HR
+1550,2,0,0.95,1,4,Bachelors,33,R&D
+26447,3,1,1.02,1,3,Masters & above,30,Technology
+11406,3,2,1,1,4,Bachelors,37,Technology
+118,4,2,0.94,1,7,Masters & above,38,Analytics
+21667,2,0,1.01,1,4,Masters & above,40,Technology
+63361,2,0,1.04,1,6,Bachelors,33,Operations
+2250,3,1,1.1,1,7,Bachelors,38,HR
+47461,2,1,1.04,1,3,Bachelors,36,Sales & Marketing
+63554,3,1,0.95,1,8,Bachelors,33,Operations
+7979,3,2,0.88,1,6,Bachelors,32,Sales & Marketing
+62218,2,0,1.01,1,3,Bachelors,30,Technology
+43280,3,1,0.95,1,8,Bachelors,40,Operations
+2787,4,2,0.93,1,7,Bachelors,33,Procurement
+54623,4,3,1.01,1,3,Masters & above,51,Procurement
+31404,2,0,0.96,1,3,Bachelors,33,Procurement
+17241,3,1,0.98,1,9,Bachelors,44,Sales & Marketing
+48061,3,1,0.97,1,6,Bachelors,34,Sales & Marketing
+26557,3,0,0.93,1,8,Masters & above,38,Procurement
+25344,3,1,0.97,1,6,Bachelors,33,Sales & Marketing
+19833,4,1,1.04,1,9,Masters & above,36,Operations
+43762,4,3,1.06,1,4,Bachelors,30,Operations
+10754,3,1,0.89,1,4,Masters & above,51,Technology
+4547,4,2,1.08,1,7,Masters & above,34,Procurement
+8332,2,0,1.1,1,10,Bachelors,37,Sales & Marketing
+4790,3,3,1.02,1,4,,28,Sales & Marketing
+25959,3,1,1.07,1,6,Bachelors,29,Sales & Marketing
+41576,3,1,0.98,1,10,Masters & above,40,Sales & Marketing
+44640,4,3,1.05,2,3,Bachelors,27,Sales & Marketing
+24503,3,0,0.81,1,9,Masters & above,34,Operations
+75188,4,3,0.94,1,4,Bachelors,35,Operations
+5866,1,1,0.98,3,6,,28,Procurement
+13374,2,0,1.02,1,10,Bachelors,34,Procurement
+56253,1,0,0.97,2,1,,25,Sales & Marketing
+47380,5,3,1,1,4,Masters & above,29,Analytics
+37974,3,1,1.04,1,5,Bachelors,30,Operations
+10993,2,0,0.99,2,4,Bachelors,31,Analytics
+62714,5,3,1.01,1,4,Masters & above,33,Operations
+3780,3,2,0.93,1,2,Bachelors,37,Technology
+26016,3,2,1,3,3,Bachelors,26,Technology
+31543,3,2,0.98,1,7,Bachelors,46,Analytics
+7594,2,0,0.99,2,12,Masters & above,58,Sales & Marketing
+70638,4,2,0.98,2,2,Bachelors,22,Sales & Marketing
+72133,3,0,0.99,1,4,Masters & above,33,Sales & Marketing
+72934,4,3,0.96,2,3,Bachelors,28,Operations
+39861,3,1,0.95,1,11,Bachelors,40,HR
+18990,2,0,0.96,1,3,Bachelors,35,Sales & Marketing
+76723,1,0,0.87,1,2,Below Secondary,23,Finance
+36976,3,1,0.97,1,3,Bachelors,30,Legal
+77771,3,1,0.9,1,2,Masters & above,37,Operations
+34502,4,3,1.05,1,9,Bachelors,30,Analytics
+29129,4,3,0.95,1,4,Bachelors,40,Procurement
+74966,4,3,1.03,1,4,Bachelors,38,Legal
+47071,4,2,0.99,1,5,Masters & above,31,Sales & Marketing
+71007,3,1,0.98,1,11,Bachelors,36,Technology
+70031,2,0,1.07,1,4,Bachelors,40,Operations
+4237,4,3,0.92,1,7,Bachelors,49,Sales & Marketing
+63084,4,3,1.1,1,1,Bachelors,26,Sales & Marketing
+45939,3,1,1.08,1,5,Masters & above,35,Operations
+57149,3,1,1,1,3,Bachelors,33,HR
+72132,4,1,1,1,5,Masters & above,31,Sales & Marketing
+46777,4,3,0.98,2,4,Bachelors,33,Legal
+3590,4,3,1,1,2,Bachelors,29,Analytics
+52556,3,1,0.89,1,6,Bachelors,43,Operations
+67083,3,1,0.72,1,4,Bachelors,31,Sales & Marketing
+30943,3,2,0.95,3,2,Bachelors,26,R&D
+31897,4,3,0.98,1,6,Bachelors,30,Analytics
+74838,3,2,0.9,1,2,Bachelors,33,Sales & Marketing
+65644,1,0,0.98,2,12,,40,Analytics
+60560,4,3,0.99,1,4,Bachelors,37,Procurement
+58498,4,2,0.95,1,6,Masters & above,36,Operations
+7425,3,0,1.03,1,7,Masters & above,38,Procurement
+21682,4,2,0.95,1,5,Bachelors,28,Procurement
+21496,4,2,1.06,3,15,Bachelors,42,Analytics
+74867,1,1,0.99,1,2,,31,Analytics
+51397,2,0,1.01,1,3,Bachelors,26,Sales & Marketing
+71278,4,3,0.98,1,4,Bachelors,32,Procurement
+15795,2,0,0.86,1,5,Masters & above,44,Technology
+64168,4,3,1.1,1,2,Bachelors,29,Operations
+14618,3,0,1.03,1,18,Masters & above,54,Technology
+401,4,1,1.08,1,14,Masters & above,41,Sales & Marketing
+59940,4,3,1,1,10,Bachelors,37,Operations
+38562,3,1,1.02,3,9,Bachelors,31,Procurement
+61355,2,1,1.08,1,1,Below Secondary,25,HR
+21642,2,0,1,2,7,Bachelors,36,Sales & Marketing
+12129,3,0,1.01,2,3,Masters & above,32,R&D
+55883,2,0,1,1,7,Masters & above,38,Technology
+61201,2,0,1.07,2,10,Bachelors,33,Technology
+46700,2,0,0.95,2,5,Bachelors,29,Procurement
+20327,2,0,0.93,2,1,Bachelors,26,Sales & Marketing
+22208,2,0,1,1,5,Bachelors,29,Sales & Marketing
+35372,3,1,1.09,1,2,Bachelors,29,Sales & Marketing
+19797,4,1,1.04,1,9,Masters & above,35,Finance
+15260,4,2,0.95,1,5,Masters & above,31,Procurement
+26759,3,1,0.88,1,4,Bachelors,31,HR
+46929,3,3,1.01,1,2,,28,Analytics
+54761,3,1,1.08,1,3,Masters & above,39,Sales & Marketing
+66952,4,2,0.91,2,6,Masters & above,31,Finance
+54556,3,0,0.9,1,3,Masters & above,52,Technology
+74059,3,1,1.1,1,12,Bachelors,42,Technology
+68632,3,1,0.73,1,11,Bachelors,38,Sales & Marketing
+63586,3,1,1.1,1,6,Bachelors,32,Operations
+30156,2,1,1,1,5,,28,Sales & Marketing
+45194,3,2,1,1,4,Bachelors,35,Operations
+42497,3,2,1.02,1,17,Bachelors,47,Operations
+21119,3,1,1.04,2,10,Masters & above,39,HR
+46670,3,1,1.07,1,4,Bachelors,37,HR
+35453,2,0,1.04,1,2,Bachelors,27,Procurement
+1459,4,3,1.03,1,5,Bachelors,29,Sales & Marketing
+50482,2,0,1,4,7,Bachelors,30,Sales & Marketing
+42718,4,2,0.99,1,10,Bachelors,36,Analytics
+77597,4,3,0.99,1,7,Bachelors,32,Technology
+36203,4,1,0.99,1,8,Masters & above,35,Analytics
+64568,3,0,1.05,1,9,Masters & above,35,Technology
+50700,3,2,1.04,3,4,Bachelors,38,Analytics
+26820,2,0,0.97,1,6,Bachelors,41,Sales & Marketing
+37227,2,0,1.08,1,3,Bachelors,33,Operations
+66010,3,2,0.88,1,4,Bachelors,33,HR
+33555,2,1,1.04,1,6,Bachelors,39,Procurement
+42587,3,0,1.03,1,3,Masters & above,35,Sales & Marketing
+63583,4,3,0.99,1,3,Bachelors,30,Procurement
+10621,3,1,1.04,1,2,Bachelors,26,HR
+71702,4,2,1.03,1,5,Masters & above,34,R&D
+17546,1,0,1.03,1,4,,38,Sales & Marketing
+21359,4,3,1.01,1,2,Bachelors,27,Legal
+48056,2,0,0.84,1,3,Bachelors,31,Operations
+32771,4,2,1.03,2,5,Bachelors,29,Operations
+58943,4,2,0.98,1,5,Masters & above,36,Technology
+46654,3,1,1.01,1,4,Bachelors,29,Technology
+29853,3,1,1,1,8,Bachelors,44,Analytics
+38743,1,1,0.99,1,3,,27,Analytics
+27880,2,0,1.03,1,3,Bachelors,28,Analytics
+60862,2,0,1.03,1,3,Masters & above,36,Sales & Marketing
+76337,4,3,1.02,1,6,Bachelors,32,Technology
+24325,5,3,1.01,1,13,Masters & above,49,Analytics
+29211,3,1,1.01,1,6,Bachelors,29,Procurement
+25252,4,2,0.95,1,4,Bachelors,30,Sales & Marketing
+37159,4,2,1,1,6,Masters & above,35,Operations
+64753,2,0,1.01,1,4,Bachelors,26,Analytics
+61090,4,3,1.02,2,2,Bachelors,33,Analytics
+38505,3,1,0.99,3,4,Bachelors,30,Procurement
+40404,5,3,1.01,1,3,Masters & above,34,Sales & Marketing
+11525,2,0,1.09,1,1,Bachelors,28,Sales & Marketing
+25309,3,1,0.97,1,8,Bachelors,29,Sales & Marketing
+34987,3,2,1,2,4,Bachelors,34,Sales & Marketing
+26549,2,0,0.98,1,7,Bachelors,39,Operations
+23039,3,2,0.99,1,3,Bachelors,33,Procurement
+4678,3,0,0.99,2,6,Masters & above,34,Finance
+55678,3,2,0.88,1,1,Bachelors,27,Sales & Marketing
+46652,4,2,1.01,2,13,Masters & above,39,Operations
+28821,4,2,1.02,1,5,Bachelors,34,Sales & Marketing
+57723,4,3,0.96,2,1,Bachelors,28,Analytics
+65997,3,1,0.97,3,2,Bachelors,26,Sales & Marketing
+29744,4,3,0.98,1,2,Bachelors,34,Technology
+1460,4,3,0.97,1,1,Bachelors,28,Technology
+67580,3,1,0.98,2,6,Bachelors,29,Operations
+65631,3,1,0.92,1,2,Bachelors,26,Sales & Marketing
+55199,2,0,0.96,1,10,Bachelors,35,Procurement
+55229,3,1,0.97,1,6,Masters & above,46,Procurement
+28107,3,1,1,1,7,Bachelors,34,Sales & Marketing
+54264,3,1,1.02,2,2,Bachelors,29,Technology
+38299,2,0,1.03,1,3,Bachelors,31,HR
+52077,2,0,0.96,1,4,Bachelors,31,Technology
+7219,2,1,1.01,1,3,Bachelors,27,Technology
+49305,2,0,0.99,1,10,Bachelors,36,Operations
+40904,3,0,0.99,1,12,Masters & above,43,Sales & Marketing
+44159,4,2,1.04,1,1,Masters & above,31,Analytics
+75300,2,1,0.98,1,1,,28,Procurement
+38233,2,0,1.08,1,16,Bachelors,48,Sales & Marketing
+50688,3,0,0.9,1,8,Masters & above,38,Technology
+23582,3,2,1,1,2,Bachelors,36,Operations
+70088,2,0,1.08,2,3,Bachelors,30,Analytics
+15985,3,1,1,2,2,Bachelors,28,Technology
+2844,3,1,0.94,1,11,Masters & above,52,Sales & Marketing
+8830,3,0,0.88,1,9,Masters & above,48,Operations
+10758,2,0,0.99,1,9,Bachelors,33,R&D
+19290,2,0,0.89,2,1,Bachelors,28,Sales & Marketing
+16396,3,1,0.95,4,2,Bachelors,26,Finance
+27817,4,3,0.98,1,2,Bachelors,29,Legal
+22189,2,0,1.01,1,5,Masters & above,34,Operations
+36008,2,0,1.04,1,8,Bachelors,32,Analytics
+23604,3,1,0.98,1,3,Bachelors,29,Sales & Marketing
+77439,3,0,1.06,1,4,Masters & above,38,Sales & Marketing
+28689,3,0,1.01,1,25,Masters & above,55,Procurement
+65991,2,0,0.93,2,5,Bachelors,30,Technology
+30342,2,2,1.03,1,6,,33,Procurement
+21926,3,2,0.99,1,2,Bachelors,37,Finance
+63272,2,0,0.93,1,6,Bachelors,28,Sales & Marketing
+6492,3,2,1.04,1,9,Bachelors,41,Operations
+59360,2,0,0.96,1,10,Bachelors,46,Operations
+72254,3,1,1.01,1,6,Bachelors,32,Sales & Marketing
+1200,3,1,0.96,1,7,Bachelors,34,Sales & Marketing
+24482,3,1,0.96,1,5,Bachelors,54,Technology
+12499,3,1,1.09,1,7,Bachelors,38,Technology
+20368,4,2,0.98,1,3,Bachelors,26,Sales & Marketing
+719,4,1,1.01,2,8,Masters & above,34,Analytics
+12694,2,0,1.01,1,6,Bachelors,29,Technology
+34778,4,2,0.99,1,6,Masters & above,31,Procurement
+7375,3,1,1.06,1,2,Bachelors,26,Sales & Marketing
+13023,5,3,0.98,1,4,Masters & above,38,Operations
+21462,3,0,0.96,2,8,Masters & above,36,Operations
+3,4,2,0.84,1,4,Masters & above,38,Procurement
+13464,3,1,1.02,2,9,Bachelors,36,Procurement
+32889,4,2,1.1,1,7,Bachelors,31,Procurement
+13438,3,1,1.01,1,7,Bachelors,30,Analytics
+51589,2,0,1.03,1,6,Bachelors,43,Operations
+7182,4,1,0.99,1,5,Masters & above,30,HR
+11955,4,3,0.98,1,4,Bachelors,30,Finance
+63093,2,0,1.05,3,3,Bachelors,27,Procurement
+69265,2,0,0.96,1,4,Bachelors,29,Sales & Marketing
+74794,2,0,1.07,1,10,Bachelors,39,Analytics
+68307,4,1,1.05,1,19,Masters & above,50,Sales & Marketing
+10088,3,2,0.97,1,3,Bachelors,35,HR
+73234,1,1,0.98,2,1,,28,Sales & Marketing
+31387,4,3,0.95,1,2,Below Secondary,25,Technology
+976,2,0,0.98,3,8,Bachelors,30,Procurement
+11593,4,1,1.02,1,12,Masters & above,38,HR
+18341,3,0,1.01,1,12,Masters & above,39,Analytics
+8639,3,0,0.81,1,10,Masters & above,36,Procurement
+74855,4,2,1.02,1,3,Masters & above,58,Sales & Marketing
+34929,3,2,0.86,1,7,Bachelors,38,Finance
+50384,2,0,0.96,2,3,Bachelors,29,Sales & Marketing
+3367,3,1,1.02,1,15,Bachelors,49,Procurement
+55458,3,1,0.94,2,2,Bachelors,26,Operations
+25855,3,2,0.97,1,2,Bachelors,33,Sales & Marketing
+67227,3,1,0.94,1,6,Masters & above,46,Sales & Marketing
+23937,2,0,0.95,1,9,Bachelors,36,Operations
+47962,3,1,1,1,8,Masters & above,33,Analytics
+11638,3,1,1.02,1,5,Bachelors,32,Operations
+59174,3,2,1.01,1,5,Bachelors,34,Procurement
+33203,2,0,1.04,2,1,Bachelors,27,Sales & Marketing
+55837,4,3,0.99,1,2,Bachelors,34,Analytics
+59072,3,1,1.01,2,6,Bachelors,29,Sales & Marketing
+31177,2,0,0.97,1,2,Bachelors,25,Sales & Marketing
+77333,3,1,1.07,1,22,Bachelors,54,Operations
+46797,4,1,1.08,1,5,Masters & above,28,Sales & Marketing
+71150,1,0,0.79,1,2,,23,Sales & Marketing
+57193,1,0,1,1,2,Below Secondary,24,HR
+56189,2,0,0.98,1,1,Bachelors,27,Technology
+23630,2,0,0.99,1,4,Bachelors,32,Analytics
+9751,3,2,0.98,2,1,Bachelors,26,Sales & Marketing
+44222,2,0,0.99,1,5,Bachelors,30,Sales & Marketing
+35727,4,2,1.01,1,5,Bachelors,26,Sales & Marketing
+457,2,0,0.92,2,4,Bachelors,54,Operations
+60342,4,2,1.05,1,11,Masters & above,44,Legal
+57914,3,1,1.04,1,2,Bachelors,25,Procurement
+74170,2,0,0.97,1,4,Bachelors,36,Technology
+39015,2,0,1.02,1,2,Bachelors,27,Operations
+30017,3,0,0.95,1,12,Masters & above,42,Procurement
+14456,3,1,1,1,7,Masters & above,48,Procurement
+74479,5,3,0.95,1,7,Masters & above,33,Technology
+25861,3,1,1.06,1,3,Bachelors,28,Sales & Marketing
+29871,3,1,1,2,7,Masters & above,45,Sales & Marketing
+35555,5,3,0.96,1,9,Masters & above,38,Technology
+51691,2,0,1.1,2,7,Bachelors,36,Sales & Marketing
+1276,2,0,1.02,1,4,Bachelors,28,Sales & Marketing
+45172,3,2,1.02,1,3,Bachelors,31,Operations
+62172,2,1,1,1,7,Bachelors,37,Analytics
+21502,4,3,0.97,1,12,Bachelors,36,Operations
+34432,2,0,1.1,1,4,Bachelors,32,Analytics
+25436,4,3,0.99,1,5,Bachelors,29,Technology
+34815,4,1,1.03,1,10,Masters & above,35,Sales & Marketing
+51460,2,0,0.96,1,2,Bachelors,34,Operations
+51673,2,0,0.96,1,4,Bachelors,27,Sales & Marketing
+9076,3,1,1.07,1,4,Bachelors,30,Sales & Marketing
+74462,4,2,0.92,3,7,Masters & above,36,Operations
+31120,3,0,1.02,1,7,Masters & above,40,Sales & Marketing
+21345,4,3,1.02,1,2,Below Secondary,21,HR
+10521,3,2,1.01,1,18,Bachelors,57,Operations
+26127,4,3,1.08,2,5,Bachelors,28,Sales & Marketing
+15613,3,1,1.1,2,9,Bachelors,42,R&D
+17599,2,0,1.04,1,1,Bachelors,25,Technology
+6467,3,2,1,1,5,Bachelors,30,Technology
+58782,2,0,0.98,1,6,Bachelors,40,Sales & Marketing
+30429,4,2,1.01,1,7,Masters & above,36,Sales & Marketing
+55734,2,0,0.97,2,2,Bachelors,24,Sales & Marketing
+44031,4,2,1.06,1,7,Masters & above,41,Operations
+63337,2,0,1.05,2,4,Bachelors,32,Analytics
+3875,2,0,1.05,1,6,Bachelors,27,Sales & Marketing
+56278,3,1,0.95,1,9,Bachelors,30,Finance
+30249,3,0,0.93,1,27,Masters & above,54,Sales & Marketing
+73238,3,1,0.98,1,3,Bachelors,34,Sales & Marketing
+20888,4,2,1.07,2,7,Masters & above,41,Procurement
+66769,3,1,1.1,1,11,Bachelors,41,Sales & Marketing
+3328,4,3,1.03,2,15,Bachelors,42,Operations
+26527,3,2,0.96,1,3,Bachelors,31,Sales & Marketing
+69803,4,3,1.04,1,3,Bachelors,26,Operations
+3226,4,1,1.01,1,6,Masters & above,30,Analytics
+12222,2,0,0.77,1,8,Bachelors,31,HR
+12615,2,0,0.89,1,4,Bachelors,29,Operations
+54527,3,1,1,1,3,Masters & above,32,Sales & Marketing
+42488,1,1,1.09,2,3,,31,Sales & Marketing
+4771,4,2,1.02,1,10,Masters & above,54,Analytics
+28530,4,3,1,1,4,Masters & above,45,Operations
+56741,1,0,1.02,2,2,,25,Sales & Marketing
+76771,3,1,0.94,1,2,Bachelors,29,Analytics
+75807,2,0,1.09,1,6,Masters & above,44,Operations
+12553,2,0,1.05,1,2,Bachelors,29,Sales & Marketing
+10537,2,0,1.02,1,4,Bachelors,32,HR
+59774,3,1,0.97,1,11,Masters & above,37,Sales & Marketing
+23449,4,2,1.01,1,7,Bachelors,32,HR
+40079,3,1,1,1,11,Masters & above,33,Sales & Marketing
+56734,3,0,1.03,1,4,Masters & above,35,Procurement
+54173,5,3,1.05,1,8,Masters & above,38,Procurement
+75653,3,1,1,1,2,Masters & above,47,Operations
+493,3,1,1.02,1,12,Masters & above,43,Technology
+30296,3,2,1.01,1,7,Bachelors,35,Sales & Marketing
+20981,3,1,0.91,1,7,Bachelors,40,Procurement
+45538,2,0,1.04,1,3,Bachelors,28,Operations
+77344,2,0,1.08,2,5,Bachelors,30,Analytics
+41603,3,1,1.04,1,5,Masters & above,51,Sales & Marketing
+51454,4,2,0.95,1,3,Masters & above,42,Operations
+48370,4,2,0.94,2,3,Bachelors,34,Sales & Marketing
+47327,2,0,1.06,1,3,Bachelors,33,Sales & Marketing
+21672,3,1,1.01,1,9,Masters & above,40,Procurement
+53280,2,0,1,2,6,Bachelors,34,Analytics
+16255,2,0,0.97,1,11,Bachelors,42,Technology
+3626,2,0,0.98,4,1,Bachelors,30,Sales & Marketing
+66607,3,0,1.04,2,15,Masters & above,56,Procurement
+60899,3,1,0.97,1,10,Masters & above,55,Procurement
+4313,2,0,0.96,1,10,Bachelors,34,Sales & Marketing
+26384,3,1,0.96,2,6,Bachelors,31,Analytics
+61261,2,1,1,1,3,Bachelors,39,Sales & Marketing
+39064,2,0,1.08,2,4,Bachelors,28,Sales & Marketing
+50790,2,0,0.97,1,9,Bachelors,39,Sales & Marketing
+34915,3,1,1.04,1,4,Bachelors,34,Operations
+37454,4,3,1.02,1,6,Bachelors,31,Operations
+55372,5,3,1,1,3,Masters & above,38,HR
+70110,3,0,1.01,1,17,Masters & above,45,HR
+53713,3,1,1.03,1,3,Bachelors,27,Sales & Marketing
+59450,3,0,0.96,1,7,Masters & above,35,Operations
+71218,3,1,1.01,1,15,Bachelors,44,Operations
+5249,4,3,0.86,1,2,Below Secondary,25,Legal
+65513,2,0,0.99,1,4,Bachelors,27,Technology
+36875,3,1,1.05,1,3,Bachelors,44,Sales & Marketing
+77960,2,0,1.06,1,3,Bachelors,36,Finance
+46699,3,0,0.98,1,3,Masters & above,34,Operations
+69087,3,0,1.09,1,4,Masters & above,36,Analytics
+54969,3,1,1,1,5,Masters & above,38,Sales & Marketing
+74973,2,0,1.01,1,4,Bachelors,32,Sales & Marketing
+43437,2,0,1.04,2,5,Bachelors,29,Sales & Marketing
+2978,2,0,0.94,3,6,Bachelors,33,Sales & Marketing
+52455,3,0,1.01,1,11,Masters & above,40,Sales & Marketing
+11357,3,1,0.96,1,5,Bachelors,30,Sales & Marketing
+40547,3,1,1.03,1,2,Masters & above,44,Procurement
+75518,3,2,0.89,1,4,Below Secondary,25,Technology
+7146,4,2,1.04,1,8,Masters & above,35,Operations
+39482,3,2,1.08,1,3,Bachelors,29,Analytics
+32088,1,0,0.84,1,2,,25,Sales & Marketing
+51946,3,1,0.98,4,4,Bachelors,27,Procurement
+24091,4,2,0.88,1,7,Bachelors,34,Analytics
+64572,2,0,0.92,2,9,Bachelors,31,Sales & Marketing
+48413,2,0,0.96,1,3,Masters & above,47,Procurement
+60096,1,1,0.91,1,3,,25,Sales & Marketing
+65721,3,1,1.03,1,4,Bachelors,40,Technology
+40580,3,1,0.95,1,3,Bachelors,30,Analytics
+19657,3,2,0.98,1,2,Bachelors,44,Operations
+50982,3,1,1.08,1,5,Bachelors,31,Operations
+54004,5,3,1.05,1,7,Masters & above,35,Technology
+19433,2,1,1.03,1,5,Bachelors,54,Operations
+55944,4,3,0.98,1,4,Bachelors,29,Technology
+2337,3,1,1.01,1,1,Masters & above,28,Analytics
+18862,3,0,1,2,5,Masters & above,37,Technology
+43921,3,1,1.04,1,2,Bachelors,26,Technology
+43081,3,1,0.97,1,1,Bachelors,24,Sales & Marketing
+63439,2,0,0.93,1,4,Bachelors,29,Sales & Marketing
+28456,4,3,0.91,1,1,Bachelors,25,Operations
+14669,2,0,1.06,1,1,Bachelors,27,Technology
+5621,3,0,0.96,1,26,Masters & above,57,Technology
+57221,3,1,1.01,1,6,Bachelors,30,Sales & Marketing
+37132,4,3,1.01,2,4,Bachelors,36,Operations
+69870,2,1,0.92,2,7,Bachelors,33,Operations
+27179,4,1,0.92,1,9,Masters & above,38,Sales & Marketing
+51095,3,0,0.99,1,5,Masters & above,32,Finance
+19664,3,1,0.95,1,1,Bachelors,29,Operations
+6100,3,1,0.88,1,9,Bachelors,29,Finance
+37804,3,1,0.98,1,4,Masters & above,46,Technology
+72236,2,0,0.99,1,3,Bachelors,35,Operations
+61762,4,2,1,1,4,Bachelors,31,Procurement
+27128,3,1,1.05,2,2,Bachelors,27,Sales & Marketing
+4840,2,0,1.05,2,4,Bachelors,33,Sales & Marketing
+17816,3,0,0.97,1,5,Bachelors,30,Analytics
+29038,3,0,1.02,1,11,Masters & above,39,Sales & Marketing
+52708,3,2,1.07,2,4,Bachelors,28,Procurement
+52080,3,1,1.01,2,5,Bachelors,27,Operations
+16113,3,1,0.98,1,5,Bachelors,29,Technology
+72878,3,1,0.97,1,4,Masters & above,56,Procurement
+26677,2,0,1.04,1,8,Bachelors,31,Sales & Marketing
+69996,3,1,1.01,1,6,Bachelors,32,Sales & Marketing
+5849,4,3,0.99,1,5,Bachelors,34,HR
+56153,2,0,1.07,2,1,Bachelors,28,Sales & Marketing
+44020,3,1,1.02,1,1,Bachelors,26,Technology
+77014,2,0,1.02,1,8,Bachelors,31,Technology
+69144,4,3,0.99,1,4,Bachelors,36,Operations
+14899,4,2,0.83,1,9,Bachelors,35,Operations
+12166,4,2,0.97,1,8,Masters & above,50,Procurement
+72553,3,2,0.92,1,2,Bachelors,30,Technology
+60807,3,3,0.99,1,2,,23,Sales & Marketing
+39551,3,1,0.86,2,6,Masters & above,35,Operations
+29569,3,0,0.97,1,13,Masters & above,40,Operations
+62029,4,3,1.02,1,3,Bachelors,27,Sales & Marketing
+60850,3,1,1.03,1,2,Bachelors,32,Operations
+11769,3,1,0.96,2,6,Masters & above,48,Analytics
+60277,4,3,0.93,2,10,Bachelors,33,Technology
+60684,2,1,1.1,1,4,Bachelors,54,Sales & Marketing
+31854,3,1,1.1,1,1,Bachelors,26,Operations
+23271,3,0,1,1,4,Masters & above,38,Finance
+32545,3,0,0.96,1,6,Masters & above,43,Operations
+65968,3,1,0.99,1,9,Bachelors,35,Sales & Marketing
+31183,3,1,0.99,1,4,Masters & above,42,Sales & Marketing
+4294,4,2,1.04,1,7,Bachelors,32,Operations
+71512,3,1,1.07,2,3,Bachelors,32,Operations
+69245,4,1,0.97,1,17,Masters & above,43,Operations
+11512,4,3,0.97,1,4,Bachelors,36,Sales & Marketing
+30610,2,0,0.99,1,4,Bachelors,31,Technology
+62036,4,3,1.03,1,2,Bachelors,33,Operations
+32917,4,1,0.99,1,4,Masters & above,31,Sales & Marketing
+73506,4,2,0.99,3,6,Bachelors,29,Analytics
+69744,3,1,1.06,1,5,Bachelors,30,Operations
+67611,5,3,1.03,1,9,Masters & above,33,Operations
+5092,4,3,0.86,1,2,Bachelors,25,Sales & Marketing
+4948,2,2,0.99,1,4,,26,Operations
+18274,3,1,0.99,2,5,Bachelors,29,Operations
+74774,2,0,0.97,1,30,Bachelors,60,Procurement
+37387,2,0,0.98,1,5,Bachelors,27,Technology
+2942,4,3,1.07,1,3,Bachelors,42,Operations
+19422,3,1,0.96,1,3,Masters & above,36,Procurement
+26734,4,3,1.05,1,2,Bachelors,30,Sales & Marketing
+11974,3,2,1,3,5,Bachelors,36,Procurement
+57668,2,0,1.01,1,11,Bachelors,41,Operations
+33736,2,0,0.96,2,17,Bachelors,51,Sales & Marketing
+37820,4,3,0.97,1,17,Bachelors,50,Operations
+25364,3,0,0.98,1,9,Masters & above,34,Finance
+1893,1,0,0.95,1,2,,22,Sales & Marketing
+45344,3,1,1.03,1,9,Bachelors,37,Sales & Marketing
+53290,4,1,0.94,1,18,Masters & above,45,Sales & Marketing
+31913,2,0,1.04,1,7,Bachelors,29,Procurement
+1913,2,0,1.02,1,14,Bachelors,43,Technology
+39229,2,0,1.04,1,3,Bachelors,36,Sales & Marketing
+12917,3,1,1.07,1,4,Bachelors,27,Procurement
+69010,3,0,1.03,1,3,Masters & above,36,Technology
+25462,4,2,0.99,1,2,Masters & above,44,Procurement
+12657,2,1,1.09,2,6,Bachelors,46,Procurement
+5146,3,1,1,1,7,Bachelors,31,Finance
+67295,3,0,1.08,1,12,Masters & above,35,Procurement
+39355,1,1,1.08,2,1,,29,Sales & Marketing
+9636,4,3,1.1,1,3,Bachelors,28,Analytics
+33941,3,0,1.05,1,5,Masters & above,30,Sales & Marketing
+51374,3,0,1,1,12,Masters & above,46,Operations
+51737,2,0,1.1,1,2,Bachelors,28,Procurement
+68035,3,2,1,2,7,Bachelors,40,Operations
+19836,3,1,0.99,2,4,Bachelors,30,Sales & Marketing
+64490,4,1,1,1,11,Masters & above,53,Operations
+23542,3,0,1.07,1,14,Masters & above,48,Technology
+34632,1,0,0.96,1,2,,22,Sales & Marketing
+73651,3,0,1.01,1,14,Masters & above,43,Operations
+52158,2,1,0.97,1,5,Below Secondary,27,Operations
+7108,3,0,1.03,1,13,Masters & above,44,Procurement
+3624,4,3,0.98,1,4,Bachelors,39,Operations
+8721,4,2,0.74,1,17,Masters & above,55,Procurement
+12286,2,0,0.99,1,10,Bachelors,36,Operations
+19108,4,2,1.02,1,18,Bachelors,45,Analytics
+56598,3,1,1.07,1,9,Bachelors,31,Operations
+40495,2,0,1.05,1,5,Masters & above,60,Technology
+50278,4,2,1.04,1,9,Masters & above,37,Procurement
+15869,4,3,1.05,2,3,Bachelors,28,Procurement
+74822,3,1,1.04,1,15,Masters & above,55,HR
+7835,2,0,1,1,4,Bachelors,35,Procurement
+71040,3,0,0.97,1,17,Masters & above,47,Analytics
+36405,4,2,1.05,1,7,Bachelors,30,Sales & Marketing
+5211,4,1,0.98,1,9,Masters & above,34,Procurement
+64613,3,1,1.06,1,1,Bachelors,26,Sales & Marketing
+15147,1,0,0.99,1,2,Below Secondary,24,Technology
+4397,3,1,1.09,1,3,Bachelors,28,Operations
+3332,5,3,1.02,1,9,Masters & above,33,Technology
+31373,2,0,1.02,1,3,Bachelors,33,HR
+31266,2,0,1.1,1,10,Bachelors,35,Procurement
+30387,2,1,0.97,1,3,Bachelors,27,Analytics
+13860,2,0,1.05,1,12,Bachelors,41,Sales & Marketing
+18855,2,1,1.02,1,4,Bachelors,53,Procurement
+62563,4,3,1.04,1,7,Bachelors,29,Procurement
+50948,4,3,1.08,1,2,Bachelors,31,HR
+61961,4,2,0.83,1,6,Masters & above,34,HR
+39024,3,2,1.03,1,4,Bachelors,29,Operations
+8934,3,1,0.93,2,9,Bachelors,39,Sales & Marketing
+59694,3,2,1.06,1,3,Bachelors,44,Sales & Marketing
+32396,4,2,1.07,1,7,Bachelors,32,Analytics
+3108,3,1,0.99,2,5,Bachelors,31,Sales & Marketing
+49432,3,1,1.08,1,1,Bachelors,25,Technology
+34293,2,0,0.96,1,10,Bachelors,38,Operations
+28517,3,2,0.99,1,5,Bachelors,32,Sales & Marketing
+21358,2,0,0.97,1,1,Bachelors,27,Procurement
+13562,3,0,0.99,1,8,Masters & above,38,Operations
+19062,3,1,0.99,1,6,Masters & above,34,Sales & Marketing
+44635,4,1,1.04,1,5,Masters & above,39,Sales & Marketing
+45702,2,0,0.96,1,5,Bachelors,30,Sales & Marketing
+8362,4,3,0.85,1,2,Bachelors,27,Legal
+66208,4,2,1.02,1,8,Bachelors,33,Analytics
+19322,3,1,1.1,1,8,Bachelors,37,R&D
+41610,2,1,0.94,3,2,Bachelors,28,Procurement
+3505,4,3,0.99,2,9,Bachelors,34,Operations
+30358,3,2,0.97,2,5,Bachelors,54,Analytics
+78082,4,3,1.01,1,7,Bachelors,31,Procurement
+45265,3,0,1,1,7,Masters & above,33,Operations
+63960,5,3,1.07,1,9,Masters & above,35,Procurement
+34902,4,3,0.98,1,5,Bachelors,38,Technology
+63080,4,3,1.01,2,4,Bachelors,38,Sales & Marketing
+45860,2,0,0.84,1,10,Bachelors,43,Technology
+48837,2,0,1.03,1,1,Bachelors,22,HR
+36629,2,0,1.05,1,6,Bachelors,40,Analytics
+28039,2,1,1.06,1,8,Bachelors,49,Sales & Marketing
+38808,4,2,1.01,1,7,Bachelors,30,Sales & Marketing
+16753,4,3,1.03,1,5,Masters & above,41,Sales & Marketing
+78010,4,3,1.06,1,2,Bachelors,31,HR
+51063,2,0,1.06,1,4,Bachelors,29,Sales & Marketing
+16602,2,0,0.99,1,7,Bachelors,38,Operations
+24500,4,2,1.07,2,3,Masters & above,39,Sales & Marketing
+31481,2,0,1.02,1,3,Bachelors,34,Technology
+5143,4,2,1.05,1,6,Bachelors,35,Operations
+27436,1,0,1.01,1,7,,40,Sales & Marketing
+71548,3,0,1.05,1,15,Masters & above,39,Operations
+1789,4,3,0.92,1,3,Bachelors,25,HR
+17870,4,3,0.98,1,2,Bachelors,24,Sales & Marketing
+36707,4,3,1.07,1,3,Bachelors,29,Procurement
+56236,2,0,0.92,1,9,Masters & above,40,Sales & Marketing
+30915,3,0,0.98,1,7,Masters & above,38,Operations
+36812,3,2,0.95,1,6,Bachelors,33,HR
+30420,3,0,0.83,1,7,Masters & above,35,Operations
+29480,4,2,1.1,1,12,Masters & above,41,Procurement
+4839,3,1,0.83,1,1,Bachelors,29,Sales & Marketing
+57748,4,3,0.99,1,7,Masters & above,45,Sales & Marketing
+65691,3,1,1.03,1,2,Bachelors,30,Procurement
+61607,4,2,1.05,1,7,Bachelors,31,Procurement
+20205,2,0,1.03,1,6,Bachelors,34,Operations
+54433,3,1,1.1,1,9,Masters & above,33,Sales & Marketing
+69520,4,2,1,1,6,Bachelors,33,Operations
+67487,3,1,0.98,1,6,Bachelors,30,Operations
+42145,2,1,0.99,1,4,Bachelors,26,Analytics
+7797,2,0,1.02,1,8,Bachelors,33,Operations
+46563,3,1,0.92,3,4,Bachelors,30,Technology
+4492,4,3,0.93,1,6,Bachelors,33,Analytics
+68677,3,1,0.99,1,4,Masters & above,37,Technology
+56694,3,2,0.86,1,2,Bachelors,38,Operations
+61951,2,0,0.99,1,5,Bachelors,30,Technology
+73839,4,3,1.07,1,9,Bachelors,38,Sales & Marketing
+21410,3,2,1,2,10,Bachelors,53,Operations
+44914,3,1,1,1,5,Bachelors,32,Sales & Marketing
+62080,4,2,0.88,1,8,Masters & above,35,Finance
+43742,5,3,1.01,1,7,Masters & above,34,Sales & Marketing
+58370,3,1,0.93,1,2,Bachelors,23,Sales & Marketing
+3039,3,1,1.07,1,7,Bachelors,34,Technology
+24977,3,1,1,1,3,Bachelors,36,Analytics
+33074,4,2,0.96,1,11,Masters & above,40,Operations
+38888,3,1,1.06,1,4,Bachelors,30,Procurement
+11699,4,2,0.93,2,5,Masters & above,39,Operations
+9154,3,1,1.05,1,2,Bachelors,28,Sales & Marketing
+25853,2,0,0.98,1,2,Bachelors,43,Sales & Marketing
+35394,3,1,1.05,1,5,Masters & above,33,Sales & Marketing
+54571,2,0,1,1,8,Bachelors,58,Operations
+74232,2,0,1.01,1,3,Masters & above,48,Sales & Marketing
+76561,4,1,0.97,1,3,Masters & above,33,Sales & Marketing
+67416,3,1,0.98,1,5,Bachelors,32,Sales & Marketing
+51174,3,2,0.99,1,6,Bachelors,33,Procurement
+22606,2,1,0.99,1,14,Bachelors,56,Operations
+39878,1,0,0.92,1,20,,51,Operations
+26270,3,0,1.03,1,9,Masters & above,35,Technology
+67706,2,0,1.02,2,2,Bachelors,29,Technology
+34496,3,1,0.83,1,5,Masters & above,41,Sales & Marketing
+66226,4,3,1.1,1,8,Bachelors,60,Finance
+46158,3,2,1.09,1,5,Bachelors,27,Sales & Marketing
+72403,2,0,0.96,2,9,Bachelors,34,Sales & Marketing
+32807,3,1,1.02,2,7,Bachelors,32,Analytics
+4229,3,1,0.94,1,6,Bachelors,35,Operations
+64338,4,3,1.06,1,2,Bachelors,24,Operations
+40408,3,0,0.92,1,10,Masters & above,39,Operations
+42726,3,1,1.07,1,1,Bachelors,28,Procurement
+7832,3,1,1.06,1,1,Bachelors,25,HR
+63216,4,1,1.06,1,10,Masters & above,37,Finance
+15838,3,1,1.1,1,3,Bachelors,29,Technology
+74899,1,0,0.98,1,3,,29,Legal
+3988,4,3,0.99,1,1,Bachelors,27,Finance
+38731,4,3,0.98,1,4,Bachelors,32,Sales & Marketing
+24902,3,0,0.91,1,17,Masters & above,60,Operations
+4029,4,3,1.01,1,11,Bachelors,43,Operations
+52871,3,1,0.79,1,7,Bachelors,34,Technology
+71546,2,0,0.95,1,5,Bachelors,27,Sales & Marketing
+40383,2,0,1,1,5,Bachelors,33,Operations
+52295,5,3,1.04,1,4,Masters & above,35,Sales & Marketing
+46858,1,0,1,2,4,,31,Technology
+53087,2,0,1.04,1,12,Bachelors,55,Analytics
+57482,4,2,0.98,1,3,Bachelors,27,Analytics
+25307,1,1,0.88,2,4,,28,Technology
+10472,3,0,0.99,1,4,Masters & above,39,Operations
+9651,2,0,1.01,2,8,Bachelors,32,Technology
+26049,3,0,1.02,1,9,Masters & above,41,Technology
+4296,3,2,0.95,2,5,Bachelors,37,Operations
+17560,3,1,0.97,1,5,Bachelors,30,Sales & Marketing
+19997,4,3,1.02,3,4,Masters & above,41,Analytics
+78230,2,0,1.04,1,6,Bachelors,28,Finance
+14728,4,2,1.02,1,6,Bachelors,31,Procurement
+7628,3,1,0.95,1,4,Bachelors,43,Sales & Marketing
+40286,2,0,1.04,1,3,Bachelors,30,Operations
+49812,5,3,1.01,1,6,Masters & above,32,Technology
+29982,3,1,1.02,1,5,Bachelors,31,HR
+27567,3,1,1.03,1,2,Masters & above,39,HR
+6103,3,1,0.95,3,4,Bachelors,28,Finance
+22003,1,0,0.99,1,2,,27,Sales & Marketing
+50372,3,0,0.96,1,8,Masters & above,44,Procurement
+14053,5,3,1.03,1,5,Masters & above,32,Finance
+30455,3,2,1.02,1,4,Bachelors,31,Sales & Marketing
+25441,3,2,1.1,1,3,Bachelors,29,HR
+72249,4,2,0.93,1,4,Masters & above,32,Analytics
+28198,3,2,0.87,1,6,Bachelors,32,Procurement
+22221,3,1,1.02,2,6,Bachelors,27,Operations
+58502,2,0,0.9,2,5,Bachelors,33,Operations
+60487,2,0,0.99,1,7,Bachelors,36,Sales & Marketing
+51592,3,0,0.97,2,8,Masters & above,32,Operations
+29295,5,3,1.03,1,3,Masters & above,31,Technology
+46852,3,0,0.99,1,18,Masters & above,49,HR
+54382,4,3,1.02,1,5,Bachelors,38,Operations
+60377,4,3,1.07,1,5,Bachelors,27,Operations
+73589,2,0,1.02,3,4,Bachelors,32,Sales & Marketing
+38051,3,1,1,1,3,Masters & above,43,Technology
+43115,3,2,0.99,1,4,Bachelors,30,Sales & Marketing
+44650,3,2,1.07,1,3,Bachelors,29,Sales & Marketing
+25707,4,2,1,2,7,Bachelors,32,Operations
+63405,3,2,1.01,1,4,Bachelors,32,Sales & Marketing
+49023,4,3,1.06,1,5,Bachelors,29,Operations
+20400,3,1,0.98,1,2,Bachelors,28,Legal
+19082,3,2,1.01,1,8,Bachelors,34,HR
+2722,3,0,0.99,1,12,Masters & above,43,Procurement
+28232,4,2,0.89,1,4,Masters & above,28,R&D
+77739,4,3,0.97,1,7,Bachelors,29,Analytics
+53447,4,3,1.05,1,9,Bachelors,34,Procurement
+71385,4,2,0.99,1,5,Masters & above,31,Operations
+42011,3,1,1,2,3,Bachelors,29,Analytics
+61905,2,0,1.03,1,6,Bachelors,30,Analytics
+50855,2,0,1.01,1,8,Bachelors,34,Sales & Marketing
+41779,3,1,1.06,1,1,Masters & above,32,Procurement
+49552,3,2,0.96,2,4,Bachelors,27,Analytics
+24516,2,0,1.07,1,14,Bachelors,43,Sales & Marketing
+56311,2,0,0.94,1,4,Bachelors,30,Legal
+71458,2,0,0.97,1,3,Bachelors,35,Sales & Marketing
+61633,3,1,1.01,1,7,Masters & above,36,Operations
+27401,3,1,1.09,1,5,Masters & above,37,Analytics
+63035,2,1,1.01,1,7,Bachelors,47,Technology
+2811,4,1,0.97,1,8,Masters & above,37,Procurement
+51527,3,1,0.76,2,2,Bachelors,28,Procurement
+9087,2,0,1.06,1,3,Masters & above,54,HR
+66853,3,1,0.94,1,2,Bachelors,30,Sales & Marketing
+4380,2,0,1.01,2,4,Bachelors,32,Sales & Marketing
+72283,3,1,1.01,1,12,Bachelors,39,Sales & Marketing
+941,4,2,0.97,1,3,Masters & above,34,Procurement
+6953,4,3,0.98,1,1,Bachelors,30,R&D
+25467,4,2,1.09,1,3,Masters & above,34,Sales & Marketing
+75668,2,0,0.93,2,3,Bachelors,29,Analytics
+54609,4,2,1.03,1,7,Bachelors,33,Procurement
+25444,2,0,1.01,1,3,Bachelors,26,Procurement
+28278,3,2,1.02,2,3,Bachelors,31,Procurement
+6143,4,3,1.07,1,3,Bachelors,28,Finance
+66386,5,3,1.03,1,6,Masters & above,45,Sales & Marketing
+3555,2,0,1,1,5,Bachelors,32,Procurement
+64653,3,1,1.02,2,9,Bachelors,33,Analytics
+19757,4,3,1.02,1,5,Bachelors,32,Procurement
+69171,2,0,1.1,1,11,Bachelors,44,Operations
+62016,3,1,0.99,2,13,Bachelors,40,Sales & Marketing
+61419,4,2,0.98,1,9,Masters & above,36,Technology
+41030,4,2,0.96,1,6,Masters & above,30,Sales & Marketing
+12470,2,0,0.94,1,1,Bachelors,27,Technology
+62374,2,1,1.01,1,7,Bachelors,41,Technology
+14992,2,0,1.01,3,9,Bachelors,36,Sales & Marketing
+49584,3,1,1,1,9,Bachelors,33,HR
+48309,2,1,1,2,6,,33,Analytics
+40063,1,0,1.05,1,1,,30,Sales & Marketing
+52386,4,2,1.02,1,6,Bachelors,29,Sales & Marketing
+61873,4,2,0.99,1,2,Bachelors,26,Operations
+59894,2,2,0.87,3,2,,24,Sales & Marketing
+51391,3,1,1.02,1,21,Bachelors,51,Technology
+19801,3,2,1.03,1,4,Bachelors,30,Analytics
+18251,3,1,0.89,1,7,Bachelors,34,Procurement
+8586,4,3,0.96,1,5,Bachelors,40,Sales & Marketing
+37771,3,0,0.82,1,5,Masters & above,30,Sales & Marketing
+64638,2,0,0.99,1,18,Bachelors,58,Sales & Marketing
+20983,2,0,1.02,1,2,Bachelors,28,Sales & Marketing
+26168,4,3,0.99,1,5,Bachelors,30,Sales & Marketing
+59325,3,1,0.97,1,8,Bachelors,35,Sales & Marketing
+47014,3,1,1.05,2,2,Masters & above,31,Sales & Marketing
+63533,3,0,1.06,1,12,Masters & above,49,Operations
+66866,4,2,1.08,1,3,Bachelors,29,Technology
+36620,3,1,1.04,1,2,Bachelors,28,Sales & Marketing
+31973,2,0,1.05,1,11,Bachelors,51,Sales & Marketing
+36713,2,0,1.02,2,10,Bachelors,45,Sales & Marketing
+75388,4,3,1.02,2,4,Bachelors,25,Procurement
+400,3,3,0.97,1,2,,32,Technology
+18649,3,1,1.05,1,7,Bachelors,34,Sales & Marketing
+74657,4,2,1.1,2,1,Bachelors,27,Procurement
+57107,3,2,0.99,1,7,Bachelors,34,Technology
+71039,3,1,0.75,2,8,Bachelors,35,Sales & Marketing
+40264,3,3,1.02,1,7,,34,Sales & Marketing
+31164,3,1,0.98,1,7,Bachelors,31,HR
+44308,4,3,0.95,1,3,Bachelors,26,Analytics
+25694,2,0,1.1,2,7,Bachelors,34,Analytics
+21379,3,2,1.01,1,1,Bachelors,26,Technology
+12813,3,1,0.96,1,7,Bachelors,36,Operations
+63984,1,0,0.98,1,4,,30,Sales & Marketing
+34066,3,1,0.98,1,5,Bachelors,35,Analytics
+20588,3,2,0.92,1,5,Bachelors,31,Finance
+77061,4,3,0.96,4,2,Below Secondary,23,Procurement
+74652,3,1,0.93,1,4,Bachelors,26,Operations
+46094,4,2,1.04,1,6,Masters & above,32,Operations
+25673,3,1,0.96,2,3,Bachelors,30,Procurement
+77743,3,1,1,2,1,Bachelors,27,Technology
+27778,2,2,1.04,1,4,,31,Sales & Marketing
+60158,3,2,1.07,1,1,Below Secondary,22,Operations
+25721,2,0,0.99,2,3,Bachelors,30,Sales & Marketing
+19304,3,0,0.95,1,8,Masters & above,36,Sales & Marketing
+39360,3,1,0.88,1,5,Bachelors,30,Sales & Marketing
+7552,1,0,0.94,2,1,,30,Sales & Marketing
+60881,3,1,1.1,1,6,Bachelors,32,Sales & Marketing
+41764,3,1,0.96,2,1,Bachelors,23,Analytics
+49791,2,0,0.76,3,3,Bachelors,29,Sales & Marketing
+27980,3,0,0.98,1,9,Masters & above,38,Sales & Marketing
+45759,2,0,1.01,2,9,Bachelors,32,Analytics
+71231,5,3,1.02,1,1,Masters & above,31,Procurement
+13700,3,2,1,1,3,Bachelors,28,Sales & Marketing
+61310,2,0,1.08,1,2,Masters & above,30,HR
+565,2,0,1.01,2,2,Bachelors,29,Procurement
+63855,3,1,1.03,3,8,Masters & above,48,Procurement
+78187,4,2,0.96,3,6,Bachelors,28,Sales & Marketing
+13549,2,0,0.96,1,8,Bachelors,38,Sales & Marketing
+67372,3,1,0.96,2,4,Bachelors,45,Procurement
+17741,2,1,1.04,2,3,Below Secondary,24,Procurement
+38813,4,3,1.02,1,3,Bachelors,55,Sales & Marketing
+56968,2,0,0.74,4,2,Bachelors,28,Sales & Marketing
+71135,1,1,1.05,1,5,,42,Sales & Marketing
+54403,2,0,1.09,1,4,Bachelors,27,Sales & Marketing
+27826,3,0,0.96,2,15,Masters & above,42,Technology
+8996,3,1,1.04,1,19,Bachelors,49,Sales & Marketing
+29916,2,0,0.93,2,10,Bachelors,39,Technology
+1191,4,3,1.03,1,3,Bachelors,30,Procurement
+78255,2,0,0.85,1,2,Bachelors,25,Finance
+28867,4,2,1.01,1,12,Bachelors,37,Operations
+41826,4,2,0.97,1,7,Bachelors,43,Technology
+74065,5,3,1.08,1,11,Masters & above,36,Analytics
+39340,2,1,0.94,1,6,Bachelors,46,Operations
+34791,3,1,1.05,1,11,Bachelors,40,Operations
+49974,3,2,0.97,1,7,,30,HR
+18842,3,1,0.99,1,4,Bachelors,31,Technology
+29053,2,0,0.99,1,7,Bachelors,33,Operations
+1471,2,0,0.74,1,6,Bachelors,30,Sales & Marketing
+74237,2,0,1.01,1,12,Bachelors,46,Procurement
+6090,3,1,0.88,1,4,Bachelors,26,Analytics
+12535,3,2,0.99,1,6,Bachelors,34,Operations
+65764,3,1,0.89,1,6,Bachelors,31,Finance
+8441,4,2,1,2,4,Bachelors,30,Operations
+53950,3,1,1.03,1,4,Bachelors,37,Procurement
+21647,5,3,1.01,1,2,Masters & above,46,Operations
+29196,4,3,0.97,1,4,Bachelors,33,Procurement
+31284,3,1,1.07,1,2,Bachelors,23,Sales & Marketing
+62323,3,1,1,1,3,Masters & above,37,Procurement
+68696,1,0,0.99,1,10,,38,Sales & Marketing
+75142,4,2,0.99,2,6,Bachelors,32,Finance
+44987,4,1,1.07,3,7,Masters & above,32,Procurement
+78293,4,3,0.93,1,3,Bachelors,26,Operations
+14297,2,0,1.04,1,7,Bachelors,36,Operations
+6046,4,2,0.96,1,6,Masters & above,39,Sales & Marketing
+78243,3,1,0.93,1,2,Masters & above,32,Procurement
+69052,3,0,0.96,1,31,Bachelors,58,Technology
+7980,2,0,1.1,1,6,Bachelors,35,Technology
+7118,3,0,0.97,4,11,Masters & above,44,Technology
+37287,2,0,1.08,2,3,Bachelors,26,Finance
+29371,4,1,0.79,1,9,Masters & above,40,Sales & Marketing
+73256,4,2,0.97,1,2,Masters & above,37,Procurement
+8579,2,0,0.98,1,7,Bachelors,31,Operations
+55203,2,0,0.95,1,3,Masters & above,44,Sales & Marketing
+4164,3,1,1.04,1,3,Bachelors,30,Operations
+61296,4,3,1.06,1,2,Bachelors,28,R&D
+11716,4,1,0.95,1,5,Masters & above,33,Procurement
+6765,4,2,1.1,2,7,Bachelors,32,Operations
+26178,3,1,0.98,1,4,Bachelors,30,Analytics
+2012,2,1,0.94,1,2,Bachelors,34,Legal
+43556,3,1,1,2,6,Masters & above,31,Technology
+57031,3,2,1,2,4,Bachelors,27,Analytics
+31676,3,2,1.06,1,1,Bachelors,29,Operations
+1312,4,3,1,1,2,Bachelors,35,Operations
+10413,4,2,0.91,1,3,Masters & above,37,Technology
+61231,3,1,1,1,16,Masters & above,42,Sales & Marketing
+59155,4,3,0.96,1,11,Bachelors,40,Operations
+72136,3,1,1.04,1,8,Bachelors,32,Sales & Marketing
+45703,3,2,0.99,1,7,Bachelors,40,Operations
+42522,3,1,1.03,1,3,Bachelors,30,Technology
+43405,3,1,1.01,1,1,Bachelors,28,Procurement
+51651,4,2,1.09,1,2,Masters & above,34,Operations
+21029,2,0,0.96,3,5,Masters & above,51,Sales & Marketing
+68623,3,1,1.07,3,2,Bachelors,28,Sales & Marketing
+49001,4,3,0.88,1,4,Bachelors,30,Analytics
+74012,3,0,0.8,2,15,Masters & above,45,Procurement
+77785,3,1,1.01,3,4,Masters & above,31,Analytics
+54457,2,0,1.08,1,7,Bachelors,37,Analytics
+7731,4,3,0.97,1,1,Bachelors,28,Analytics
+54050,2,0,0.94,1,2,Bachelors,27,Sales & Marketing
+35602,2,0,1.03,1,6,Bachelors,31,Technology
+18957,3,2,0.95,1,4,Bachelors,40,Operations
+37021,3,1,1.05,1,5,Bachelors,33,HR
+66340,3,1,0.98,1,2,Bachelors,38,Sales & Marketing
+77880,2,0,1.01,1,5,Masters & above,40,Procurement
+61474,3,2,1.05,1,3,Bachelors,31,HR
+53000,4,3,1.05,1,3,Masters & above,41,Technology
+24063,3,2,1.01,1,2,Bachelors,27,Technology
+6928,4,3,1.07,1,3,Bachelors,26,Sales & Marketing
+25887,4,3,1.02,1,5,Bachelors,28,Analytics
+2709,2,0,0.99,1,3,Bachelors,31,Sales & Marketing
+45842,4,3,1.05,1,7,Bachelors,34,Operations
+54322,3,1,1.07,1,7,Bachelors,36,Sales & Marketing
+49543,4,3,0.97,1,3,Bachelors,33,Procurement
+15247,3,1,1.07,1,6,Bachelors,32,Operations
+57902,3,1,1,1,1,Bachelors,29,Operations
+45384,2,0,0.78,1,3,Bachelors,36,Sales & Marketing
+63364,3,1,0.95,1,9,Bachelors,35,Legal
+59110,4,2,0.97,1,9,Masters & above,37,Legal
+68240,2,0,0.98,1,17,Bachelors,53,Procurement
+42548,3,1,0.93,1,3,Bachelors,29,Operations
+54537,2,0,0.99,1,10,Bachelors,33,Operations
+12074,4,3,0.94,1,4,Bachelors,28,Technology
+46772,3,1,0.94,1,9,Masters & above,39,R&D
+11189,4,2,0.94,1,7,Masters & above,43,Operations
+14705,3,1,0.96,1,8,Bachelors,39,Operations
+33312,2,0,0.99,1,2,Bachelors,30,HR
+16406,3,1,1.03,1,1,Masters & above,32,Procurement
+18322,3,1,0.9,1,27,Bachelors,55,Sales & Marketing
+11574,2,1,0.87,1,3,Bachelors,32,Sales & Marketing
+17689,2,0,1.05,1,9,Bachelors,36,Sales & Marketing
+4452,3,1,1.05,1,4,Masters & above,48,Procurement
+13474,2,0,0.93,1,3,Bachelors,31,Procurement
+33829,2,0,0.95,1,6,Bachelors,53,Operations
+4660,4,2,1.02,1,4,Bachelors,29,R&D
+41708,3,1,1.01,1,5,Bachelors,34,HR
+870,4,1,0.94,2,6,Masters & above,37,Sales & Marketing
+4448,3,1,1.07,1,9,Bachelors,43,Operations
+37587,5,3,1,1,4,Masters & above,39,Operations
+23736,3,2,0.97,1,3,Bachelors,53,Sales & Marketing
+5007,2,0,1.04,1,16,Bachelors,46,Operations
+23855,3,2,0.97,1,4,Bachelors,38,Operations
+11137,1,1,1.04,1,11,,41,Sales & Marketing
+42366,1,1,1.08,1,1,,30,Sales & Marketing
+63393,4,2,1.01,1,7,Bachelors,30,Operations
+31191,2,0,0.88,1,5,Bachelors,31,Procurement
+3810,2,1,0.86,1,3,Bachelors,52,Technology
+2289,2,0,0.99,1,4,Bachelors,29,Sales & Marketing
+39696,4,2,0.87,2,5,Bachelors,32,Technology
+73281,3,0,1.05,2,10,Masters & above,40,Sales & Marketing
+6387,2,0,0.85,2,4,Bachelors,30,Sales & Marketing
+35779,3,1,1.01,1,9,Bachelors,34,Procurement
+3651,3,1,1.02,1,8,Bachelors,31,Sales & Marketing
+20398,2,0,0.99,1,5,Bachelors,30,Sales & Marketing
+25118,3,1,0.97,1,2,Bachelors,26,Sales & Marketing
+74330,4,3,1.04,1,5,Bachelors,30,Procurement
+76477,4,3,1.02,1,6,Bachelors,29,Operations
+2880,2,0,1.05,1,1,Bachelors,23,Sales & Marketing
+62302,3,1,0.99,1,4,Masters & above,54,Procurement
+48534,3,0,1.09,1,3,Masters & above,32,Procurement
+63207,3,0,0.96,1,7,Masters & above,34,Analytics
+34769,4,2,1.03,1,6,Bachelors,27,Analytics
+74254,2,0,1.02,2,1,Bachelors,24,Procurement
+1120,3,2,0.94,1,7,Bachelors,35,Procurement
+19947,2,0,0.77,1,3,Bachelors,44,Technology
+35151,1,0,0.95,1,1,,28,Analytics
+77024,3,0,0.86,1,13,Masters & above,39,HR
+31078,3,1,0.93,1,6,Bachelors,30,HR
+23369,3,1,0.73,1,1,Bachelors,28,Sales & Marketing
+10455,2,0,0.95,1,9,Bachelors,49,Analytics
+51640,3,1,0.97,1,8,Masters & above,41,Sales & Marketing
+68808,3,1,0.97,1,1,Bachelors,25,Sales & Marketing
+35974,3,0,0.99,1,18,Masters & above,54,Technology
+2325,4,3,0.94,1,8,Bachelors,39,Operations
+19861,5,3,1.05,1,3,Masters & above,28,Sales & Marketing
+62819,1,0,0.94,1,5,,35,Sales & Marketing
+23347,2,0,1.07,4,2,Bachelors,30,Technology
+40115,2,1,0.98,1,3,Bachelors,39,Procurement
+32105,3,1,1,1,7,Bachelors,31,Technology
+28245,4,2,0.96,1,3,Masters & above,40,Sales & Marketing
+5254,4,3,1.1,1,6,Bachelors,31,Sales & Marketing
+501,3,1,1.02,1,14,Masters & above,42,Analytics
+63968,2,0,0.96,1,6,Bachelors,30,Procurement
+46353,3,2,1.05,1,5,Bachelors,37,Operations
+15406,4,3,1.02,2,8,Bachelors,33,Operations
+28954,4,2,0.94,2,17,Bachelors,45,Analytics
+69971,2,0,1,2,2,Bachelors,30,Technology
+37658,3,2,0.96,1,18,Bachelors,58,Operations
+6556,1,0,1.01,1,7,,32,Sales & Marketing
+58737,3,2,1.03,1,3,Bachelors,33,Technology
+4529,5,3,1.04,1,2,Masters & above,36,Finance
+22472,3,1,0.98,2,5,Bachelors,28,Sales & Marketing
+18532,2,0,1.05,1,2,Bachelors,31,HR
+17351,3,1,1.08,1,16,Bachelors,49,Sales & Marketing
+9430,3,1,1.01,1,2,Bachelors,36,Procurement
+40214,4,2,1.01,1,6,Masters & above,31,Procurement
+66856,2,0,1.07,1,2,Bachelors,31,Procurement
+54180,4,2,1.04,1,3,Bachelors,25,HR
+69936,4,2,1.02,1,3,Bachelors,33,Sales & Marketing
+32062,1,0,0.96,1,1,,24,Sales & Marketing
+6793,4,2,1.03,1,9,Masters & above,38,Operations
+50,2,0,1.03,1,3,Bachelors,32,Sales & Marketing
+15526,4,3,1.1,1,6,Bachelors,34,Sales & Marketing
+77150,3,1,1,1,1,Bachelors,29,Procurement
+2228,3,1,1.06,1,3,Bachelors,26,Technology
+14106,3,1,1.03,1,2,Bachelors,23,HR
+49183,2,0,0.96,1,8,Bachelors,55,Legal
+18751,2,0,1.09,2,1,Bachelors,24,Sales & Marketing
+56865,2,0,1.01,2,2,Bachelors,33,Procurement
+13145,4,2,0.71,2,3,Masters & above,36,Procurement
+61736,2,0,1,1,8,Bachelors,37,Sales & Marketing
+12054,2,0,0.96,2,18,Bachelors,51,Technology
+62391,3,0,1.1,2,7,Masters & above,35,Operations
+37360,3,1,0.97,1,1,Bachelors,26,Analytics
+72648,4,2,0.99,1,5,Masters & above,45,Sales & Marketing
+60629,3,0,0.97,1,9,Masters & above,56,Sales & Marketing
+13461,3,2,1.02,1,4,Bachelors,34,Procurement
+58347,2,0,0.7,1,2,Masters & above,32,Technology
+53897,5,3,1,1,1,Masters & above,28,Analytics
+8924,2,0,1.03,1,8,Bachelors,37,Technology
+11036,4,3,1.07,1,4,Bachelors,44,Analytics
+48079,4,3,1.05,1,6,Bachelors,32,Sales & Marketing
+9473,2,0,0.97,1,27,Bachelors,58,Procurement
+13332,4,2,1.02,1,2,Bachelors,27,Finance
+51840,4,2,1.01,1,1,Masters & above,27,Analytics
+64009,4,3,0.98,3,4,Bachelors,29,Procurement
+29081,4,3,0.94,1,7,Bachelors,31,Sales & Marketing
+35997,2,0,1.01,1,3,Bachelors,30,Procurement
+32046,2,0,0.96,1,4,Bachelors,39,Analytics
+6112,2,1,1,1,2,Bachelors,26,Analytics
+44586,3,0,0.99,1,9,Masters & above,39,Operations
+32383,4,3,1,1,3,Bachelors,39,Legal
+68027,2,0,1.1,1,9,Bachelors,36,Sales & Marketing
+67349,2,0,1.01,1,3,Bachelors,28,Operations
+28334,4,2,0.85,1,7,Masters & above,37,Procurement
+8707,3,1,0.95,2,4,Bachelors,32,Operations
+17191,4,2,1.05,1,4,Masters & above,34,Operations
+68375,3,1,0.73,1,3,Bachelors,28,Finance
+61880,3,1,0.97,1,2,Masters & above,36,Operations
+28189,3,1,0.97,2,5,Bachelors,34,Analytics
+25104,2,0,0.98,1,3,Bachelors,32,Procurement
+62916,3,2,0.94,1,7,Bachelors,42,Sales & Marketing
+48964,3,1,0.83,1,1,Bachelors,30,Sales & Marketing
+31516,2,0,0.99,2,1,Bachelors,27,Sales & Marketing
+54519,4,3,0.95,1,9,Bachelors,33,Operations
+72166,3,0,0.73,1,7,Masters & above,49,Analytics
+57836,3,2,1.05,1,4,Bachelors,30,Operations
+26632,4,2,0.91,1,4,Bachelors,33,Sales & Marketing
+73282,5,3,0.92,1,2,Masters & above,27,Operations
+37558,3,1,0.98,1,4,Masters & above,34,Operations
+6727,4,3,1,1,4,Masters & above,50,Operations
+73252,4,3,1.04,1,6,Bachelors,46,Operations
+54719,2,0,0.98,1,4,Bachelors,32,Procurement
+15070,4,2,0.95,1,2,Masters & above,42,Operations
+70429,3,1,0.96,2,8,Bachelors,40,Analytics
+31912,3,1,1.01,1,11,Bachelors,38,Sales & Marketing
+11467,2,1,1.02,1,10,Bachelors,58,HR
+68845,1,1,1.03,1,1,,24,Sales & Marketing
+131,2,0,1.1,1,9,Bachelors,36,Analytics
+24693,5,3,1,1,3,Masters & above,33,Finance
+40139,3,0,1.1,1,1,Masters & above,30,Technology
+29664,2,0,0.91,1,2,Bachelors,30,Operations
+29246,2,0,0.93,1,8,Bachelors,33,Sales & Marketing
+55607,3,1,0.99,1,4,Bachelors,34,Operations
+15889,2,0,1.03,1,3,Bachelors,33,Procurement
+60162,3,2,1.01,1,3,Bachelors,36,Operations
+28342,2,1,0.98,1,3,Bachelors,35,Operations
+67977,1,1,1.04,1,9,,34,Procurement
+73772,2,0,1.02,1,1,Bachelors,24,Sales & Marketing
+19162,4,2,1.01,1,2,Bachelors,25,Finance
+5113,4,2,1.06,1,7,Masters & above,43,Operations
+54597,3,1,0.98,2,10,Bachelors,38,Sales & Marketing
+47642,3,1,0.85,1,2,Bachelors,26,Procurement
+50672,4,1,0.99,1,7,Masters & above,31,Procurement
+66643,3,0,1.09,1,21,Masters & above,53,Analytics
+28006,3,0,0.96,1,5,Masters & above,34,Technology
+12039,3,2,1.03,1,3,Bachelors,36,Operations
+72000,4,3,1.01,1,5,Bachelors,43,Operations
+66513,2,0,0.98,1,3,Bachelors,30,Sales & Marketing
+54764,3,0,1.03,1,3,Masters & above,34,Procurement
+14842,2,0,1.01,1,4,Bachelors,26,HR
+43527,1,0,0.95,3,4,,26,Sales & Marketing
+19727,2,1,0.84,1,3,Bachelors,34,Legal
+40926,3,1,0.98,1,7,Masters & above,42,Operations
+75309,2,1,0.91,1,3,Below Secondary,25,Finance
+375,5,3,0.98,1,5,Masters & above,40,Analytics
+16161,3,0,1.1,1,6,Masters & above,32,Operations
+8083,5,3,1.05,1,23,Masters & above,56,Procurement
+65743,3,1,0.75,1,2,Bachelors,30,Procurement
+42087,4,3,0.94,1,2,Bachelors,30,Technology
+69190,4,3,0.94,1,3,Masters & above,39,Sales & Marketing
+77,2,0,0.97,2,12,Bachelors,44,Sales & Marketing
+629,3,1,0.98,1,3,Bachelors,30,Sales & Marketing
+60166,3,1,0.74,2,11,Masters & above,44,Sales & Marketing
+20484,1,0,0.98,1,5,,28,Sales & Marketing
+62464,2,0,1.02,1,3,Bachelors,40,HR
+19017,2,0,1.03,1,3,Bachelors,28,Procurement
+20491,2,0,1.02,1,17,Bachelors,51,Sales & Marketing
+12430,2,0,0.96,1,4,Masters & above,36,Operations
+70860,1,0,0.96,1,1,,24,Sales & Marketing
+66114,4,3,1.04,2,3,Bachelors,26,Sales & Marketing
+2691,3,1,1.05,1,9,Masters & above,52,Operations
+14265,4,1,1,1,9,Masters & above,37,Procurement
+63422,3,2,0.93,2,3,Bachelors,26,Finance
+70567,5,3,0.97,1,5,Masters & above,37,Legal
+1687,3,1,0.97,1,6,Bachelors,31,Sales & Marketing
+44091,4,2,0.98,1,7,Masters & above,34,Operations
+59907,4,3,0.96,1,7,Bachelors,45,Operations
+74813,4,1,0.86,1,12,Masters & above,39,Operations
+49123,3,1,0.92,1,6,Bachelors,31,Analytics
+61153,4,1,0.97,2,7,Masters & above,39,Operations
+8263,2,3,1.1,1,3,,30,Technology
+51532,2,0,1.1,1,3,Bachelors,31,Technology
+73939,3,1,0.97,1,12,Bachelors,50,Sales & Marketing
+43074,2,0,1.1,2,3,Bachelors,31,Sales & Marketing
+22297,5,3,1,2,11,Masters & above,42,Operations
+35996,4,2,0.99,1,2,Masters & above,36,HR
+1480,2,0,0.98,1,4,Bachelors,30,Sales & Marketing
+14240,3,1,1.04,1,3,Bachelors,28,Procurement
+44403,5,3,1,1,7,Masters & above,36,Operations
+9920,3,1,0.95,1,15,Bachelors,44,Sales & Marketing
+55095,2,0,0.93,2,5,Bachelors,35,Procurement
+22821,3,0,1.02,1,5,Masters & above,37,Sales & Marketing
+32144,2,1,1.03,1,2,Bachelors,29,Operations
+61577,2,0,0.94,1,2,Bachelors,26,Sales & Marketing
+65930,2,0,0.94,1,4,Bachelors,27,Operations
+66725,5,3,0.97,1,3,Masters & above,37,Analytics
+30504,3,1,0.94,1,9,Bachelors,40,Operations
+67627,4,2,0.96,1,17,Bachelors,49,Operations
+44024,2,0,0.94,1,5,Bachelors,42,Sales & Marketing
+50037,1,1,0.96,1,3,,28,Analytics
+43695,2,0,0.98,1,1,Bachelors,29,Technology
+8255,3,2,0.96,1,6,Bachelors,28,Finance
+23428,2,1,0.93,1,2,Below Secondary,21,Operations
+2158,3,2,1.08,1,3,Bachelors,57,Sales & Marketing
+25741,4,2,0.95,1,7,Bachelors,31,Procurement
+44938,3,1,1.02,1,1,Bachelors,29,Technology
+33744,3,1,0.98,2,14,Bachelors,42,Sales & Marketing
+74829,3,2,1.05,1,10,Bachelors,37,Operations
+67113,4,1,1.02,2,18,Masters & above,47,Technology
+69005,4,2,0.87,1,11,Masters & above,41,HR
+20044,2,0,1.01,1,10,Bachelors,35,Sales & Marketing
+33121,3,1,0.97,2,2,Bachelors,29,Analytics
+70894,3,0,1.07,1,8,Masters & above,35,Sales & Marketing
+4461,2,0,0.96,1,2,Bachelors,29,Analytics
+61065,1,1,0.97,1,1,,20,Sales & Marketing
+39178,3,2,0.98,2,4,Bachelors,33,Operations
+56793,3,2,1.03,1,4,Bachelors,51,Sales & Marketing
+62015,2,0,1.1,2,7,Bachelors,32,Sales & Marketing
+57312,4,1,0.97,3,4,Masters & above,32,Sales & Marketing
+53100,4,3,1.01,1,1,Bachelors,27,Legal
+45870,4,2,1.09,1,5,Bachelors,30,Technology
+15214,2,0,1.05,1,5,Bachelors,28,Technology
+36129,3,1,0.92,1,17,Masters & above,49,Sales & Marketing
+26031,2,1,0.96,1,4,Bachelors,43,HR
+68778,4,3,0.98,1,7,Bachelors,30,Analytics
+9996,4,2,1.01,1,5,Masters & above,34,Procurement
+29222,3,1,0.96,3,10,Bachelors,38,Procurement
+21373,3,1,0.97,2,3,Bachelors,26,Procurement
+51364,3,1,1,1,3,Bachelors,29,Operations
+24814,2,0,0.96,1,5,Bachelors,27,Sales & Marketing
+60493,3,1,0.92,1,5,Bachelors,32,Analytics
+38791,4,2,0.95,1,2,Bachelors,26,Analytics
+706,4,2,1.06,1,10,Masters & above,42,Sales & Marketing
+50912,3,1,1.02,1,8,Bachelors,30,Operations
+59116,2,0,1.1,1,4,Bachelors,30,Sales & Marketing
+12788,2,0,1.01,1,10,Bachelors,41,Sales & Marketing
+53176,2,1,0.91,1,12,,41,Technology
+42230,1,0,0.96,1,2,,23,Analytics
+24478,3,1,1.07,1,10,Bachelors,33,Operations
+5462,4,2,0.91,2,7,Bachelors,30,Analytics
+72497,3,1,0.99,1,24,Bachelors,56,Operations
+66232,2,0,0.86,1,3,Bachelors,27,Analytics
+35473,2,0,1.05,2,8,Bachelors,32,Sales & Marketing
+45913,2,0,1.08,1,2,Bachelors,27,Sales & Marketing
+64615,3,1,1.05,2,8,Bachelors,32,Analytics
+40854,4,2,0.95,1,6,Bachelors,27,Analytics
+4298,3,2,0.99,1,7,Bachelors,32,Operations
+74823,4,1,1.05,1,27,Masters & above,54,Sales & Marketing
+54997,4,3,1.02,2,3,Bachelors,29,Sales & Marketing
+71398,3,2,0.96,1,4,Bachelors,45,Operations
+74593,4,3,0.94,1,9,Bachelors,34,Sales & Marketing
+46432,4,2,0.88,1,10,Masters & above,38,Procurement
+13567,5,3,0.89,1,4,Masters & above,36,Operations
+40997,4,3,0.96,2,3,Bachelors,28,Finance
+40487,2,0,0.9,2,2,Bachelors,27,Sales & Marketing
+34972,5,3,1.04,1,7,Masters & above,33,Technology
+26374,3,1,1.1,1,2,Bachelors,27,Operations
+25896,3,1,0.97,1,7,Bachelors,34,Operations
+30151,4,2,0.98,1,7,Bachelors,34,Analytics
+41731,2,0,1.03,1,15,Bachelors,41,Operations
+29720,4,3,1.05,1,12,Bachelors,41,Legal
+33245,4,2,1.03,1,15,Masters & above,60,HR
+69215,3,1,1,3,7,Bachelors,33,Sales & Marketing
+22238,3,1,1.06,3,13,Masters & above,55,Sales & Marketing
+13449,3,2,0.96,1,7,Bachelors,44,Analytics
+4724,2,0,1,1,5,Bachelors,29,Sales & Marketing
+50235,2,0,0.92,1,10,Bachelors,37,Operations
+8679,4,3,1.06,1,6,Bachelors,46,Operations
+42635,4,3,0.99,1,1,Bachelors,29,Procurement
+14430,4,2,0.98,1,5,Bachelors,32,Sales & Marketing
+18033,2,0,0.96,2,3,Bachelors,27,Sales & Marketing
+10209,2,0,1.01,1,1,Bachelors,27,Analytics
+43210,3,2,1.02,1,7,Bachelors,34,Operations
+16707,3,1,0.99,1,6,Bachelors,32,Procurement
+23273,4,3,0.95,1,7,Bachelors,31,Analytics
+71746,3,2,1,2,6,Bachelors,31,Technology
+48791,4,1,1.02,1,10,Masters & above,38,HR
+7659,4,1,0.88,1,5,Masters & above,30,Sales & Marketing
+74640,3,0,1.03,1,4,Masters & above,36,Technology
+53362,4,3,0.94,1,7,Bachelors,28,Sales & Marketing
+69725,2,0,0.98,1,3,Bachelors,28,Analytics
+32775,2,0,1.05,2,14,Bachelors,47,Procurement
+53941,3,1,1.01,1,3,Bachelors,28,Analytics
+59628,3,1,0.94,1,2,Masters & above,41,HR
+20353,3,1,1.03,1,2,Bachelors,25,Sales & Marketing
+52095,3,2,0.74,1,3,Bachelors,27,Technology
+64023,4,1,1,1,8,Masters & above,38,Finance
+67424,4,2,1.04,1,5,Masters & above,30,Analytics
+48406,3,1,1.04,1,4,Masters & above,53,Technology
+75101,2,0,1,1,11,Bachelors,52,Sales & Marketing
+1818,3,0,1.1,1,11,Masters & above,42,Sales & Marketing
+77202,3,0,0.97,3,3,Masters & above,26,R&D
+5280,4,1,1,1,6,Masters & above,31,Analytics
+14358,4,3,1.01,1,7,Bachelors,30,Operations
+59678,3,1,1.01,1,3,Bachelors,36,Sales & Marketing
+43545,3,1,0.98,3,6,Bachelors,27,Procurement
+64028,4,3,1.05,1,3,Bachelors,36,Operations
+39757,2,0,1.05,1,8,Bachelors,35,HR
+10291,4,2,0.95,1,8,Masters & above,36,Operations
+37053,3,1,0.97,1,3,Bachelors,31,Finance
+70209,2,0,1.05,1,6,Bachelors,29,Technology
+41802,3,2,1.09,1,3,Bachelors,28,Analytics
+66748,4,2,1.01,1,9,Bachelors,33,Sales & Marketing
+27945,3,2,1,1,5,Bachelors,27,Sales & Marketing
+74715,4,3,0.97,1,10,Bachelors,40,Analytics
+40055,4,2,1.01,1,1,Bachelors,27,Finance
+7099,3,2,0.99,1,5,Bachelors,26,Sales & Marketing
+51138,4,3,0.92,1,3,Bachelors,27,Procurement
+49132,4,3,1,1,1,Below Secondary,25,Technology
+58822,4,2,1.02,1,10,Bachelors,37,Operations
+37430,1,0,1,1,7,,32,Sales & Marketing
+64254,3,0,1,2,8,Masters & above,35,Sales & Marketing
+21160,4,3,0.9,1,4,Bachelors,26,Technology
+29257,3,1,1.1,1,4,Masters & above,38,Sales & Marketing
+66233,3,1,0.98,1,3,Bachelors,25,Sales & Marketing
+27338,3,2,1.02,1,6,Bachelors,29,HR
+73885,3,1,0.92,1,6,Masters & above,39,HR
+23267,3,1,0.92,1,4,Masters & above,33,Technology
+11945,3,1,1.06,1,2,Bachelors,30,Procurement
+22560,3,0,1.03,2,2,Masters & above,35,Sales & Marketing
+36429,3,1,1.07,1,7,Masters & above,41,Operations
+31593,3,1,1.03,1,1,Bachelors,26,Sales & Marketing
+67403,2,0,1.01,3,4,Bachelors,31,Procurement
+29489,2,0,0.96,1,2,Bachelors,37,Sales & Marketing
+49150,5,3,1.01,2,4,Masters & above,36,R&D
+75028,3,2,0.94,1,1,Bachelors,26,Finance
+36570,2,0,1.06,7,4,Bachelors,41,Procurement
+51757,3,1,0.95,1,3,Masters & above,36,Sales & Marketing
+33868,3,1,0.94,1,3,Bachelors,30,HR
+48504,4,2,1.1,1,4,Bachelors,26,Technology
+38090,2,1,0.95,1,7,Bachelors,43,Sales & Marketing
+36823,1,0,0.88,1,1,Below Secondary,22,HR
+203,2,0,1.02,1,2,Bachelors,40,Sales & Marketing
+28186,3,2,0.95,2,1,Bachelors,28,Technology
+58459,3,0,1.01,1,2,Masters & above,30,Analytics
+46920,4,3,0.75,1,4,Bachelors,31,Operations
+52250,2,0,1.03,1,6,Bachelors,35,Operations
+50501,2,0,1,1,4,Bachelors,27,Sales & Marketing
+54368,2,0,0.96,1,4,Masters & above,42,Operations
+59623,3,1,1,1,4,Bachelors,36,Sales & Marketing
+11032,2,0,0.91,1,2,Bachelors,28,Sales & Marketing
+47509,4,2,1.02,1,8,Masters & above,36,Analytics
+52691,2,1,0.93,1,1,Below Secondary,26,Procurement
+32279,3,2,1.01,1,1,Bachelors,29,Operations
+24951,4,3,1.06,1,11,Bachelors,43,Operations
+75329,3,1,0.98,1,18,Bachelors,53,Sales & Marketing
+74868,3,0,1.02,1,6,Masters & above,32,HR
+68571,3,1,1.01,1,7,Bachelors,30,Operations
+40943,4,2,0.94,1,4,Masters & above,55,Operations
+65952,3,1,1,1,4,Bachelors,29,Procurement
+35494,4,3,1.06,1,6,Bachelors,31,HR
+3316,3,1,0.85,1,12,Bachelors,60,Legal
+19643,3,1,1.02,1,1,Bachelors,29,Procurement
+11667,4,2,1.07,1,5,Masters & above,32,Sales & Marketing
+5875,3,2,1.06,1,1,Bachelors,25,HR
+73414,3,1,0.98,1,28,Bachelors,59,Analytics
+9372,2,0,0.96,1,3,Bachelors,26,Sales & Marketing
+10812,5,3,1.05,1,11,Masters & above,40,Operations
+77273,2,2,1.03,1,1,,23,Sales & Marketing
+72016,3,1,1.02,2,3,Bachelors,34,Sales & Marketing
+74484,3,1,0.76,1,2,Masters & above,35,Sales & Marketing
+64622,3,1,1.05,2,2,Bachelors,25,Sales & Marketing
+5317,3,1,1.01,1,15,Bachelors,48,HR
+4130,3,0,0.99,1,3,Masters & above,32,Procurement
+12232,3,1,0.96,1,4,Bachelors,30,Procurement
+25776,2,0,0.99,1,2,Bachelors,25,Technology
+64625,3,3,0.95,1,2,Below Secondary,21,HR
+20626,3,1,0.97,1,6,Bachelors,31,Technology
+21533,2,0,0.96,1,2,Bachelors,28,Operations
+31758,3,1,1.02,1,3,Bachelors,27,Operations
+30018,3,1,0.94,1,3,Bachelors,31,Finance
+9961,1,0,0.95,1,2,Below Secondary,28,Procurement
+41942,4,3,0.99,1,4,Bachelors,28,Operations
+46812,2,0,1.06,2,1,Bachelors,23,Analytics
+56444,3,2,0.93,1,5,Bachelors,35,Procurement
+60990,3,0,1.03,1,4,Masters & above,27,Analytics
+24593,4,2,1.06,1,4,Bachelors,29,Procurement
+50380,3,1,1.08,1,7,Bachelors,31,HR
+17852,4,3,0.99,2,1,Below Secondary,23,Procurement
+57601,4,2,0.98,1,14,Bachelors,45,HR
+40573,5,3,1,1,12,Masters & above,42,Technology
+38418,2,0,1.04,1,8,Bachelors,38,Operations
+57950,4,2,1.09,1,4,Masters & above,35,Procurement
+55829,5,3,1.03,1,15,Masters & above,58,Technology
+24319,3,0,0.98,1,10,Masters & above,36,Procurement
+70928,1,1,1.06,1,2,,27,Technology
+26604,2,2,1.02,1,9,,34,HR
+50946,4,3,1.05,2,2,Bachelors,28,Analytics
+52896,3,1,1.01,2,6,Bachelors,27,Sales & Marketing
+72062,4,2,1.05,1,3,Masters & above,53,HR
+26013,2,0,0.94,1,6,Bachelors,31,Sales & Marketing
+17747,3,2,0.98,2,1,Bachelors,27,Analytics
+27962,3,0,0.96,1,5,Masters & above,31,Finance
+53198,2,0,1.05,1,2,Masters & above,48,Procurement
+43147,3,1,1,1,7,Masters & above,47,Operations
+6010,3,0,0.94,1,9,Masters & above,39,Sales & Marketing
+29722,2,0,0.95,2,5,Bachelors,37,Technology
+73526,4,2,0.99,1,4,Masters & above,38,Operations
+10059,2,0,0.96,3,2,Bachelors,27,Analytics
+9869,4,3,0.99,1,5,Bachelors,44,Sales & Marketing
+4389,3,1,0.75,1,10,Bachelors,53,Sales & Marketing
+40143,5,3,0.91,2,8,Masters & above,34,Analytics
+54508,2,0,1.02,1,4,Bachelors,26,Technology
+44894,4,1,1.04,1,7,Masters & above,35,HR
+64843,2,0,0.99,3,1,Bachelors,26,Sales & Marketing
+54689,4,3,0.99,1,3,Bachelors,31,Sales & Marketing
+48743,4,3,0.99,1,7,Bachelors,32,Sales & Marketing
+64242,2,0,1.04,2,5,Bachelors,28,Sales & Marketing
+46675,2,0,1.01,1,5,Bachelors,49,Operations
+30463,3,3,1.07,1,2,,28,Sales & Marketing
+11515,4,2,1.02,1,10,Masters & above,36,Technology
+41982,2,0,1.08,1,4,Bachelors,30,R&D
+42873,3,1,0.98,1,8,Bachelors,42,Sales & Marketing
+23681,3,1,1.02,1,10,Masters & above,39,Sales & Marketing
+10992,4,2,1.01,1,6,Bachelors,29,HR
+44744,2,0,0.96,1,4,Bachelors,30,Sales & Marketing
+42719,1,1,0.72,1,1,,27,Analytics
+74806,2,0,1.1,1,5,Bachelors,27,HR
+57203,3,1,0.89,1,4,Bachelors,29,Sales & Marketing
+44211,3,2,1,1,5,Bachelors,42,Procurement
+16693,4,3,0.96,1,9,Bachelors,40,Operations
+60745,3,2,1,1,6,Bachelors,33,Sales & Marketing
+70874,4,3,1.07,1,7,Bachelors,33,Sales & Marketing
+56147,3,1,0.95,1,4,Masters & above,46,Operations
+7418,2,0,0.97,1,3,Bachelors,29,Legal
+12838,3,1,1.05,1,16,Masters & above,56,Sales & Marketing
+67327,2,0,0.94,1,10,Bachelors,39,HR
+16426,2,0,1.03,1,4,Bachelors,27,Analytics
+7924,3,0,0.97,1,5,Masters & above,45,Legal
+42372,4,2,0.97,1,5,Bachelors,26,Operations
+40380,4,3,0.91,1,7,Bachelors,32,Finance
+22941,2,0,1.06,1,5,Bachelors,34,Sales & Marketing
+26048,3,1,1.1,2,8,Bachelors,39,Sales & Marketing
+27690,3,1,0.89,2,8,Bachelors,32,Sales & Marketing
+71692,3,1,0.97,1,3,Bachelors,29,Sales & Marketing
+34110,2,0,1.01,1,9,Bachelors,34,Sales & Marketing
+56510,3,0,1.06,1,6,Masters & above,31,Procurement
+44957,4,3,0.97,2,10,Bachelors,33,Technology
+62946,2,0,1.1,1,7,Bachelors,37,Sales & Marketing
+36502,4,2,1.06,1,7,Bachelors,31,Operations
+51818,2,1,1.02,1,4,Bachelors,50,Technology
+33390,4,3,1.05,1,4,Bachelors,42,Procurement
+16101,4,2,1.06,1,5,Masters & above,38,Technology
+11425,2,0,0.96,3,7,Bachelors,32,Analytics
+54729,4,3,1.04,1,10,Bachelors,37,Analytics
+60481,4,2,1.06,1,3,Bachelors,31,Procurement
+62378,4,2,0.94,1,2,Bachelors,25,Finance
+69350,4,2,0.95,2,5,Masters & above,34,Sales & Marketing
+14948,3,1,1,1,6,Bachelors,29,Technology
+73897,2,1,1.07,1,8,Bachelors,50,Sales & Marketing
+46843,3,1,1.02,1,7,Masters & above,36,Sales & Marketing
+17251,4,3,1,1,2,Bachelors,29,Sales & Marketing
+30423,1,0,1.05,1,14,,46,Sales & Marketing
+37070,3,1,1.08,1,2,Bachelors,28,Sales & Marketing
+6519,3,1,1,1,9,Bachelors,37,Operations
+11631,5,3,0.81,1,3,Masters & above,35,Procurement
+74050,5,3,0.95,2,7,Masters & above,35,Analytics
+59922,3,1,0.98,1,10,Bachelors,34,Analytics
+44535,3,1,0.89,1,5,Bachelors,39,Operations
+30068,3,1,1.04,1,4,Bachelors,27,Operations
+27604,4,2,1,1,4,Bachelors,26,Sales & Marketing
+22250,4,2,1.03,1,2,Masters & above,41,Sales & Marketing
+31924,2,0,1.04,1,1,Bachelors,27,HR
+11351,4,2,1.04,1,12,Masters & above,41,Procurement
+68779,1,0,1.06,1,2,,20,Sales & Marketing
+43443,4,2,1.1,1,5,Bachelors,31,Operations
+47044,2,0,1.07,1,1,Bachelors,30,Technology
+78055,3,2,0.99,1,3,Bachelors,39,Sales & Marketing
+67440,2,1,1.1,1,2,Bachelors,26,Operations
+18888,4,2,0.99,1,3,Bachelors,27,Procurement
+42769,3,0,0.99,1,7,Masters & above,42,Operations
+42492,2,0,1.01,1,3,Bachelors,27,Procurement
+21910,1,1,0.98,1,6,,30,Operations
+17758,3,2,0.94,1,6,Bachelors,29,Finance
+22231,3,1,1.1,1,5,Bachelors,46,Sales & Marketing
+29493,2,0,1,1,8,Bachelors,37,Technology
+32290,3,1,1.05,1,2,Bachelors,29,Procurement
+56869,2,0,0.92,6,12,Bachelors,42,Procurement
+140,4,3,0.97,1,16,Bachelors,44,Operations
+54637,3,2,0.96,1,8,Bachelors,35,Analytics
+20912,2,0,1.01,1,2,Masters & above,45,Sales & Marketing
+73395,4,1,0.98,1,9,Masters & above,37,Operations
+62183,3,0,0.96,1,22,Masters & above,51,Sales & Marketing
+8726,4,3,0.99,2,2,Bachelors,24,Operations
+9754,2,0,0.99,1,5,Bachelors,43,Procurement
+38845,1,1,1.04,1,4,,31,Sales & Marketing
+12934,3,0,1,6,3,Masters & above,39,Procurement
+68819,3,1,0.97,1,10,Bachelors,36,Operations
+17429,4,1,0.98,1,14,Masters & above,39,Technology
+44936,2,0,0.98,1,6,Bachelors,45,Sales & Marketing
+27642,3,1,0.92,1,10,Bachelors,38,Procurement
+34961,3,1,0.95,1,4,Masters & above,35,Sales & Marketing
+62087,3,3,0.91,1,4,,34,Sales & Marketing
+58237,3,1,1.04,2,16,Masters & above,44,Sales & Marketing
+11341,3,1,1.01,1,2,Bachelors,26,Operations
+55032,2,0,0.98,1,5,Masters & above,47,Operations
+13124,4,3,1.1,1,5,Bachelors,30,Procurement
+14056,4,2,1,1,10,Bachelors,37,Sales & Marketing
+5972,2,0,1.06,1,6,Bachelors,32,Sales & Marketing
+17984,3,1,0.98,1,4,Bachelors,27,Sales & Marketing
+964,5,3,0.89,1,18,Masters & above,47,Analytics
+23934,4,2,1.01,2,2,Masters & above,40,Technology
+26558,4,2,0.95,1,15,Masters & above,47,Technology
+60308,3,0,0.92,1,10,Bachelors,36,Procurement
+3455,2,1,0.94,1,6,Bachelors,44,Sales & Marketing
+14174,3,1,1.04,1,4,Bachelors,41,Operations
+42044,2,0,0.99,2,4,Bachelors,28,Analytics
+43223,3,2,1.01,1,1,Bachelors,33,Legal
+32914,2,1,0.9,1,5,Bachelors,46,Technology
+39018,4,2,0.98,1,3,Bachelors,32,Technology
+56817,4,3,1.02,1,6,Bachelors,30,Sales & Marketing
+37308,4,2,1.1,1,5,Masters & above,32,Sales & Marketing
+5431,2,0,0.96,1,1,Bachelors,23,Sales & Marketing
+49444,5,3,1.03,1,2,Masters & above,44,Operations
+7168,4,3,1.06,1,1,Bachelors,27,HR
+54976,3,2,1.04,1,3,Bachelors,32,Technology
+26854,4,3,0.99,1,2,Bachelors,36,Finance
+55737,4,2,0.74,1,5,Masters & above,34,Technology
+25471,3,1,1,1,6,Bachelors,32,Technology
+20593,2,0,1,1,5,Masters & above,32,Sales & Marketing
+21702,3,1,1.06,1,6,Bachelors,46,HR
+45956,4,3,0.9,2,7,Bachelors,35,Procurement
+10785,4,3,0.9,1,1,Bachelors,25,HR
+53816,4,3,0.96,1,3,Bachelors,27,Sales & Marketing
+42615,4,2,1,1,5,Masters & above,30,Operations
+32129,3,0,0.9,1,4,Masters & above,39,Technology
+25749,2,0,1,1,4,Bachelors,33,Operations
+73922,4,2,1.04,1,4,Masters & above,41,Procurement
+16565,3,1,0.93,4,3,Bachelors,25,Analytics
+34000,3,1,1.07,2,4,Bachelors,36,Operations
+39879,3,0,0.89,1,25,Masters & above,52,Technology
+31271,2,0,1,2,4,Bachelors,37,Sales & Marketing
+53208,3,1,1.03,1,10,Bachelors,43,Operations
+58669,4,2,1.03,1,7,Bachelors,33,Technology
+59292,3,1,1.01,2,7,Bachelors,32,Technology
+18798,4,3,1.02,1,7,Bachelors,32,Analytics
+67989,3,1,0.98,1,4,Masters & above,35,Finance
+48726,3,1,1,3,3,Bachelors,35,Operations
+62848,3,0,1.01,1,27,Masters & above,56,Sales & Marketing
+18059,3,0,1.01,1,16,Masters & above,49,Operations
+31241,5,3,0.98,1,8,Masters & above,32,Sales & Marketing
+66533,2,0,0.94,1,5,Bachelors,32,Procurement
+57703,2,1,1.01,1,2,Below Secondary,22,Finance
+16868,3,1,0.97,1,5,Bachelors,31,Sales & Marketing
+73455,3,1,1.06,1,1,Bachelors,29,Operations
+38612,4,3,0.84,2,4,Bachelors,30,Operations
+1553,4,3,0.96,1,6,Bachelors,33,Sales & Marketing
+57338,3,1,0.94,1,7,Bachelors,29,Sales & Marketing
+14606,4,2,1.03,1,20,Bachelors,47,Procurement
+62289,4,3,1.02,1,9,Bachelors,37,Procurement
+69874,4,2,0.93,2,4,Masters & above,35,Operations
+39681,3,1,0.94,1,10,Bachelors,34,Analytics
+37435,3,1,0.94,1,10,Bachelors,38,Technology
+902,2,0,1.01,2,5,Masters & above,39,Finance
+12406,4,2,1.04,1,9,Bachelors,38,Technology
+23757,2,0,1.08,1,6,Masters & above,42,Sales & Marketing
+52644,3,2,1.01,1,2,Bachelors,27,Procurement
+4239,4,1,0.9,1,13,Masters & above,52,Procurement
+3547,3,1,1.01,2,3,Masters & above,37,Sales & Marketing
+50920,4,3,1,1,6,Bachelors,35,Sales & Marketing
+29785,3,2,1.02,1,2,Bachelors,38,Sales & Marketing
+20525,3,1,0.78,2,2,Masters & above,43,Sales & Marketing
+55930,3,0,0.99,2,3,Masters & above,45,Procurement
+56355,4,2,1.05,1,5,Bachelors,33,HR
+2082,2,0,1.01,2,2,Bachelors,26,Technology
+78043,4,1,1.02,1,14,Masters & above,42,Operations
+47233,5,3,1.07,1,5,Masters & above,35,Operations
+62276,2,0,0.96,1,4,Bachelors,27,Sales & Marketing
+2049,3,2,1.04,1,2,Below Secondary,28,Operations
+9848,2,0,1.06,1,6,Masters & above,33,Procurement
+34148,5,3,0.85,1,3,Masters & above,33,Procurement
+42835,3,2,1,1,8,Bachelors,37,Sales & Marketing
+18689,3,1,1.05,1,9,Bachelors,40,Operations
+40478,3,1,1.01,1,2,Masters & above,39,Operations
+19150,2,0,0.97,1,2,Masters & above,35,Operations
+56881,3,1,1.05,1,4,Bachelors,27,Sales & Marketing
+1422,2,0,0.94,1,2,Bachelors,27,Technology
+1227,4,3,1.03,2,2,Bachelors,31,Finance
+72282,3,2,1,2,3,Bachelors,27,Sales & Marketing
+21792,3,1,1.06,3,3,Bachelors,32,Sales & Marketing
+29881,4,2,0.99,1,3,Bachelors,32,Operations
+30005,3,2,0.96,1,17,Bachelors,52,Operations
+58375,3,3,1.09,1,1,,24,Sales & Marketing
+10336,2,0,1,1,3,Bachelors,29,Operations
+64447,4,3,1.04,1,4,Bachelors,27,Operations
+77959,2,0,0.94,1,7,Bachelors,47,HR
+7506,3,1,1.03,2,4,Bachelors,37,Operations
+66606,3,1,0.84,1,8,Bachelors,34,Operations
+6152,3,1,1.01,1,7,Bachelors,32,Operations
+73807,2,0,1.04,1,11,Masters & above,59,Procurement
+17227,3,1,0.94,1,4,Bachelors,29,Legal
+10184,2,1,1.04,3,2,Bachelors,38,Sales & Marketing
+6498,3,2,0.91,1,3,Bachelors,33,Sales & Marketing
+57440,5,3,0.98,1,2,Masters & above,38,Sales & Marketing
+2239,3,1,1.04,2,5,Bachelors,29,Procurement
+54723,4,2,0.97,3,1,Bachelors,27,Sales & Marketing
+11436,3,1,1.1,1,2,Bachelors,27,Analytics
+28459,2,0,1.02,1,7,Bachelors,39,Legal
+28183,3,1,0.99,1,1,Bachelors,32,Legal
+15054,4,2,1,1,3,Masters & above,34,HR
+76503,3,2,1.05,1,1,Bachelors,25,HR
+54995,3,1,1.06,1,3,Bachelors,30,Sales & Marketing
+64069,3,1,0.96,1,10,Bachelors,42,Technology
+57664,2,0,0.89,1,7,Bachelors,33,Legal
+26230,4,1,1,1,10,Masters & above,38,Sales & Marketing
+24698,3,0,1.05,1,12,Masters & above,41,Finance
+18242,5,3,1.07,1,4,Masters & above,34,Operations
+37359,3,0,0.97,2,10,Masters & above,36,Sales & Marketing
+7143,3,0,1.03,1,7,Masters & above,45,Sales & Marketing
+58109,3,1,0.97,1,3,Bachelors,26,Procurement
+33416,3,1,1.06,1,2,Bachelors,28,Operations
+38177,4,3,0.98,2,3,Bachelors,27,Analytics
+72153,2,0,0.99,2,5,Masters & above,41,Technology
+73285,2,0,0.91,1,5,Bachelors,35,Finance
+34399,2,0,1.01,1,9,Bachelors,34,Analytics
+31462,3,2,1.02,1,5,Bachelors,40,Operations
+10864,4,3,1.02,1,7,Bachelors,37,Operations
+4639,2,0,0.93,2,2,Bachelors,27,Finance
+17866,3,1,0.89,1,2,Masters & above,35,Sales & Marketing
+71969,3,2,0.97,2,3,Bachelors,26,Procurement
+2854,2,0,0.94,1,4,Bachelors,36,Technology
+9608,3,2,1,1,6,Bachelors,29,Operations
+59522,2,0,1.01,2,2,Bachelors,37,Operations
+47798,2,0,1.03,1,1,Bachelors,28,HR
+14857,4,3,1.02,1,7,Bachelors,33,R&D
+37704,3,1,0.93,1,2,Bachelors,26,Finance
+16989,4,3,0.9,1,2,Bachelors,28,Operations
+64668,4,2,1.04,1,7,Masters & above,34,Technology
+41446,2,0,1.03,3,4,Bachelors,39,Technology
+3034,3,0,0.98,1,19,Masters & above,49,Procurement
+37230,2,0,1.01,1,3,Bachelors,39,Analytics
+9205,3,0,1.03,1,15,Masters & above,44,HR
+72438,2,0,1.07,2,5,Masters & above,43,Operations
+32555,3,1,0.97,2,2,Bachelors,29,Sales & Marketing
+41940,3,1,0.91,1,3,Masters & above,33,Legal
+68777,3,2,1,1,10,Bachelors,30,Operations
+56289,2,0,1.06,2,1,Bachelors,32,Analytics
+31777,5,3,0.82,2,4,Masters & above,36,Sales & Marketing
+2396,2,0,1.08,1,5,Bachelors,41,Analytics
+65407,3,2,1,4,5,Bachelors,33,Operations
+16666,4,3,0.88,1,9,Bachelors,39,Sales & Marketing
+15669,3,0,1.02,1,5,Masters & above,30,Technology
+38736,2,1,1.02,1,4,Bachelors,54,Sales & Marketing
+48635,2,0,1.06,1,3,Bachelors,26,Sales & Marketing
+49409,2,0,1.04,1,6,Bachelors,31,Sales & Marketing
+52216,3,1,0.96,1,4,Masters & above,47,Procurement
+11053,3,1,0.9,1,8,Masters & above,52,Procurement
+65363,2,0,1.04,1,1,Bachelors,26,Analytics
+24372,2,0,0.92,1,8,Bachelors,34,Sales & Marketing
+59571,3,1,0.92,1,4,Bachelors,28,Analytics
+16866,4,2,0.97,2,6,Masters & above,35,R&D
+3008,3,1,1.02,1,8,Bachelors,36,Sales & Marketing
+75663,3,1,1.06,1,6,Bachelors,39,Technology
+29479,2,0,0.97,1,7,Masters & above,44,Technology
+56919,3,1,1.06,4,10,Bachelors,39,Sales & Marketing
+74576,3,1,0.99,2,7,Bachelors,40,Technology
+2034,4,3,0.98,1,10,Bachelors,39,Sales & Marketing
+37852,4,3,0.97,1,2,Bachelors,40,Technology
+54070,3,0,1.01,1,6,Masters & above,31,Sales & Marketing
+64548,3,1,1.1,1,10,Bachelors,35,Finance
+17662,3,2,0.94,1,2,Bachelors,30,Sales & Marketing
+40899,2,0,0.97,2,6,Bachelors,34,Operations
+40853,1,1,1.06,1,2,,32,Analytics
+54553,2,0,0.99,1,5,Bachelors,30,Analytics
+55765,3,1,1.06,1,6,Masters & above,57,Operations
+2643,2,0,0.96,2,1,Bachelors,27,Analytics
+8101,2,0,0.96,1,3,Bachelors,35,Procurement
+10314,3,0,0.89,3,3,Masters & above,36,Operations
+3255,5,3,0.99,1,4,Masters & above,29,Procurement
+70747,4,3,0.96,1,15,Bachelors,45,Operations
+20521,3,2,0.94,1,5,Bachelors,55,Technology
+39585,4,3,0.97,1,4,Bachelors,38,Operations
+40533,4,2,0.98,1,3,Masters & above,36,Sales & Marketing
+33188,2,0,1.06,2,5,Bachelors,29,Sales & Marketing
+31558,5,3,0.98,1,16,Masters & above,47,Technology
+28030,3,1,1.1,3,3,Bachelors,26,Technology
+33954,3,1,1,2,5,Bachelors,27,Procurement
+33995,3,0,0.8,3,10,Masters & above,34,Technology
+45268,3,1,0.97,1,13,Bachelors,54,Procurement
+57614,3,1,1.03,1,18,Bachelors,55,Sales & Marketing
+75511,2,0,0.97,1,3,Bachelors,26,Technology
+58376,4,3,0.91,1,3,Bachelors,37,Procurement
+54593,1,0,1.07,1,2,,29,Analytics
+56906,2,0,1.01,1,3,Bachelors,26,Operations
+59128,3,1,1,1,9,Bachelors,36,Sales & Marketing
+42200,3,2,1.06,1,3,Bachelors,30,Operations
+78005,2,0,1.03,2,4,Bachelors,34,Operations
+52769,3,1,1.04,1,1,Bachelors,28,Sales & Marketing
+13346,2,0,0.96,1,1,Bachelors,29,Operations
+45165,2,0,0.99,1,6,Bachelors,30,Sales & Marketing
+20592,2,0,1.07,1,1,Bachelors,25,Sales & Marketing
+52197,4,2,1,5,6,Bachelors,31,Sales & Marketing
+10282,3,1,1.1,1,1,Bachelors,29,Operations
+17964,3,1,0.94,1,4,Bachelors,28,Analytics
+65215,3,2,0.97,1,11,Bachelors,41,Sales & Marketing
+20509,1,0,0.89,1,1,,24,Sales & Marketing
+12665,4,3,1.06,1,3,Bachelors,27,Sales & Marketing
+33077,2,0,1.09,1,7,Bachelors,52,Procurement
+4910,2,0,0.98,1,7,Bachelors,28,Operations
+56032,4,3,1.04,1,2,Bachelors,31,Sales & Marketing
+51978,4,1,1.1,1,10,Masters & above,32,Technology
+28461,3,1,1.06,1,3,Bachelors,25,Sales & Marketing
+41428,2,0,0.96,1,7,Bachelors,37,Sales & Marketing
+24307,4,3,0.93,1,8,Bachelors,53,Technology
+62361,4,3,1.07,1,3,Bachelors,39,Operations
+58084,3,1,1,1,11,Bachelors,49,Operations
+18980,3,2,1,1,3,Bachelors,39,Operations
+37652,3,0,1,1,16,Masters & above,59,HR
+70456,3,1,1.05,1,3,Bachelors,28,Sales & Marketing
+53907,3,2,0.98,1,3,Bachelors,27,Analytics
+37122,5,3,0.97,1,6,Masters & above,32,Technology
+24893,2,0,1.06,1,6,Bachelors,34,Operations
+39113,5,3,1,1,10,Masters & above,40,Procurement
+13827,3,0,0.96,2,8,Masters & above,33,HR
+55912,1,1,0.98,1,10,,39,Sales & Marketing
+24622,1,1,0.94,1,3,,39,Sales & Marketing
+53578,2,0,1.03,1,18,Bachelors,59,Operations
+13552,3,1,1.05,2,5,Bachelors,29,Analytics
+35922,2,0,1.02,1,5,Bachelors,41,Operations
+56053,4,3,1.1,1,3,Bachelors,27,Analytics
+2096,3,1,0.74,3,5,Bachelors,29,Sales & Marketing
+66392,3,0,0.75,1,3,Masters & above,37,Sales & Marketing
+31239,3,1,0.96,1,4,Masters & above,31,Sales & Marketing
+49676,1,0,1.05,2,5,,28,Sales & Marketing
+59630,3,1,1.01,1,1,Bachelors,26,Sales & Marketing
+42208,1,0,0.94,1,1,,28,Sales & Marketing
+75836,3,1,0.95,1,16,Bachelors,43,Technology
+64984,2,0,1.06,1,3,Bachelors,30,Procurement
+76569,2,2,0.93,1,3,,24,Analytics
+48190,3,1,0.72,1,7,Bachelors,31,Sales & Marketing
+50103,3,3,0.96,2,2,Below Secondary,23,Procurement
+29507,4,3,0.98,1,3,Bachelors,28,Legal
+38724,4,2,0.98,1,10,Masters & above,33,Analytics
+69749,4,3,1,1,1,Below Secondary,24,Technology
+61160,2,0,1.01,1,6,Bachelors,34,Operations
